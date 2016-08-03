@@ -32,18 +32,14 @@ Client info:
 Project team:
 - `pm*`
 - `tl`
-- `devs`: [names]
+- `developers*`: [names]
+- `designers`: [names]
 
-Project contact information (each of these fields are optional, so only include the ones
-you want):
-- `email`: An email address that can be used to contact you. Note that this
-  address will be made public, so you may want to set up mail filters or use a
-  different email than your primary one if you choose to include an email.
-- `website`: The _URL_ of your personal website.
-- `github`: Your GitHub _username_ (not URL).
-- `twitter`: Your Twitter _handle_, without the leading `@`.
-- `linkedin`: The _URL_ of your LinkedIn profile (their username conventions are
-  somewhat inconsistent).
+Links:
+- `github*`: repo (not URL).
+- `client*`: url
+- `app`: url
+- `articles`: [url]
 
 ### Exec board members
 
