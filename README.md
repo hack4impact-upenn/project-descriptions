@@ -27,6 +27,7 @@ Length/size:
 - `tagline`: < 15 words
 - `keywords`: (lists of 2-4 keywords
 - `description`: (2-4 sentences)
+- `screenshot_urs`: 3-5
 
 Optional:
 - `tl`: (optional)
@@ -46,43 +47,52 @@ Sorting:
 ---
 layout: project
 
-project:
-  summary:
-    name:
-    tagline:
-  semesters:
-    - season:
-    - year: 
-    - team:
-      `pm`:
-      `tl`: (optional)
-      `devs`: (sorted alphabetically by first name)
-        - Aa Dd
-        - Cc Bb
-  `code`:
-    `github_repo_name`:
-    `live_url`: (optional if not completed)
-  `keywords`: (lists of 2-4 keywords, sorted alphabetically)
-    `social_impact_keyword_list`:
-      - a
-      - b
-      - c
-    `tech_keyword_list`: (2-4 keywords)
-      - d
-      - e
-      - f
-  `screenshots`:
-    `screenshot_url_list`: (sorted linearly like how you would navigate)
-      - http://hack4impact.org/first
-      - http://hack4impact.org/second
-  `media`:
-    `article_url_list` (sorted by most to least recent)
-      - http://hack4impact.org/february16
-      - http://hack4impact.org/january16
-`clients`: (optional if client under NDA or no client)
-  - `name`:
-    `description`: (2-4 sentences)
-    `website_url`
+summary:
+  name:
+  tagline:
+semesters:
+  - year:
+    semester:
+    team:
+      pm:
+      tl:
+      developers:
+      -
+      -
+      -
+      -
+      -
+      -
+    clients:
+      - name:
+        description:
+        website_url:
+code:
+  github_repo_name:
+  live_url:
+keywords:
+  social_impact_keyword_list:
+    -
+    -
+    -
+    -
+  tech_keyword_list:
+    -
+    -
+    -
+    -
+screenshots:
+  screenshot_url_list:
+    -
+    - 
+    -
+    -
+    -
+media:
+  article_url_list
+    -
+    -
+    -
 ---
 
 Add your project description here, answering each question in 2-4 sentences.
