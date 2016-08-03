@@ -19,42 +19,18 @@ Template metadata:
   It's used internally by the site generator ([Jekyll](https://jekyllrb.com/))
   to render the Markdown file into a webpage.
 
-`project`:
-  `summary`:
-    `name`:
-    `tagline`: (< 15 words)
-  `semesters`: (sorted from most to least recent)
-    - `name`: s16
-      `team`:
-        `pm`:
-        `tl`: (optional)
-        `devs`: (sorted alphabetically by first name)
-          - Aa Dd
-          - Cc Bb
-  `code`:
-    `github_repo_name`:
-    `live_url`: (optional if not completed)
-  `keywords`: (lists of 2-4 keywords, sorted alphabetically)
-    `social_impact_keyword_list`:
-      - a
-      - b
-      - c
-    `tech_keyword_list`: (2-4 keywords)
-      - d
-      - e
-      - f
-  `screenshots`:
-    `screenshot_url_list`: (sorted linearly like how you would navigate)
-      - http://hack4impact.org/first
-      - http://hack4impact.org/second
-  `media`:
-    `article_url_list` (sorted by most to least recent)
-      - http://hack4impact.org/february16
-      - http://hack4impact.org/january16
-`clients`: (optional if client under NDA or no client)
-  - `name`:
-    `description`: (2-4 sentences)
-    `website_url`
+Information/validation:
+- `tagline`: (< 15 words)
+- `semesters`: (sorted from most to least recent)
+- `semesters/name`: s16
+- `tl`: (optional)
+- `devs`: (sorted alphabetically by first name)
+- `live_url`: (optional if not completed)
+- `keywords`: (lists of 2-4 keywords, sorted alphabetically)
+- `screenshot_url_list`: (sorted linearly like how you would navigate)
+- `article_url_list` (sorted by most to least recent)
+- `clients`: (optional if client under NDA or no client)
+- `description`: (2-4 sentences)
 
 ## Template
 
