@@ -53,54 +53,36 @@ Project:
 - `impact`: "What is real and potential impact of app in use?" in 2-4 sentences.
 - `screenshots`: [url]
 
-### Exec board members
-
-In addition to the fields listed above, exec board members should include the
-following (note that `role` is indented):
-
-```
----
-exec:
-  role: External Relations Chair
----
-```
-
-### Alumni
-
-In addition to the fields listed above, organization alumni should include the
-following:
-
-```
----
-alum: true
----
-```
-
-
 ## Template
 
 ```markdown
 ---
-layout: profile
+layout: project
 
-first_name:
-last_name:
-class_of:
+project_name
+project_tagline:
+project_semesters:
 
-email:
-website:
+client_name:
+client_description:
+
+pm:
+tl:
+developers:
+designers:
+
 github:
-twitter:
-linkedin:
+client:
+app:
+articles`:
+
+social_impact_keywords:
+tech keywords:
+
 ---
-
-Add your bio here.
-
-Note that you _can_ use standard **Markdown** formatting here. Please don't
-include any headers or non-paragraph elements, however.
 ```
 
-## Example
+## Example - TODO
 
 Here's an example of the required formatting.
 
