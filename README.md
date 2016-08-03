@@ -14,41 +14,44 @@ is a Markdown file with a YAML header marked by `---`. The header contains some
 metadata, and the document body should contain paragraphs about the project
 (described below).
 
-### Header fields
-
 Template metadata:
 - `layout`: **Don't change this.** This should always have the value `project`.
   It's used internally by the site generator ([Jekyll](https://jekyllrb.com/))
   to render the Markdown file into a webpage.
 
-#### Notes
-- `*` means required.
-- In YAML, list items are indented and start with `-`. 
+`project`:
+  `summary`:
+    `name`:
+    `tagline`: < 15 words
+    `semesters`:
+      - s16
+      - f15
+      - s15
+  `members`:
+    `pm`:
+    `tl`: optional
+    `devs`*:
+      - Aa Bb
+      - Cc Dd
+  `code`:
+    `github_repo_name`:
+    `live_url`:
+  `keyword_lists`:
+    `social_impact_keyword_list`: 2-4 keywords
+    `tech_keyword_list`: 2-4 keywords
+  `screenshots`:
+    `screenshot_url_list`:
+      - first url
+      - second url
+    
+  `media`:
+    
+- `article_url_list`
 
-Project info:
-- `project_name*`
-- `project_tagline*`: "What is project?" in < 15 words (Tweetable).
-- `project_semesters*`: [`fYY`/`sYY`] in chronological ordering (most recent to least recent).
-
-Client info:
-- `client_name`: if NDA, leave blank
-- `client_description`: Usually from client, in 2-4 sentences. If NDA, broad!
-
-Project team:
-- `pm*`
-- `tl`
-- `developers*`: list of names
-
-Links:
-- `github*`: repo (not URL).
-- `client*`: url
-- `app`: url
-- `articles`: [url]
-- `screenshots*`: [url]
-
-Keywords:
-- `social_impact_keywords`: [2-4 keywords]
-- `tech keywords`: [2-4 keywords]
+`clients`:
+  - `name`: if NDA, leave blank
+    `description`: usually comes from client, 2-4 sentences. If NDA, broad!
+    `website_url`
 
 ## Template
 
