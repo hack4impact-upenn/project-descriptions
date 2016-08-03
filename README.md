@@ -21,12 +21,17 @@ Template metadata:
   It's used internally by the site generator ([Jekyll](https://jekyllrb.com/))
   to render the Markdown file into a webpage.
 
-Overview info:
-- `project name*`: Your project's name.
-- `client_name`: Your client's name.
-- `semester*`: Your project semesters, as list of strings with <lowercase semester letter><two number year suffix> i.e. `[f16, s17]`.
+Project info:
+- `project_name*`: Your project's name. Examples: "Philly Food Finder", "Transcribe4All", "BusyBooth"
+- `project_tagline*`: Answers "What?" about the project in 15 words or less. Examples: "Map-based web app to find local food resources", "Report illegal vehicle idling in Philadelphia"
+- `semester*`: List of project semesters, formatted f<YY> or s<YY>. Examples: "[f14]", "[f15, s16]".
 
-Contact information (each of these fields are optional, so only include the ones
+Client info:
+- `client_name`: Your client's name. Examples: 
+- 
+
+
+Project contact information (each of these fields are optional, so only include the ones
 you want):
 - `email`: An email address that can be used to contact you. Note that this
   address will be made public, so you may want to set up mail filters or use a
