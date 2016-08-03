@@ -11,7 +11,8 @@ please do not commit to `master` or merge the request without approval.
 
 Copy the template below into a new file `project_name.md`. Each project description
 is a Markdown file with a YAML header marked by `---`. The header contains some
-metadata, and the document body should contain paragraphs about the project.
+metadata, and the document body should contain paragraphs about the project
+(described below).
 
 ### Header fields
 
