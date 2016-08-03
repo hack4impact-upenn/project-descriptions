@@ -60,7 +60,7 @@ Project:
 ---
 layout: project
 
-project_name
+project_name:
 project_tagline:
 project_semesters:
 
@@ -75,7 +75,7 @@ designers:
 github:
 client:
 app:
-articles`:
+articles:
 
 social_impact_keywords:
 tech keywords:
