@@ -23,12 +23,13 @@ Template metadata:
 
 Project info:
 - `project_name*`: Your project's name.
-  Examples: "Philly Food Finder", "Transcribe4All", "BusyBooth"
+  -- Examples: "Philly Food Finder", "Transcribe4All", "BusyBooth"
 - `project_tagline*`: Answers "What?" about the project in 15 words or less. Examples: "Map-based web app to find local food resources", "Report illegal vehicle idling in Philadelphia"
 - `project_semesters*`: List of project semesters, formatted f<YY> or s<YY>. Examples: "[f14]", "[f15, s16]".
 
 Client info:
-- `client_name`: Your client's name. Examples: 
+- `client_name`: Your client's name.
+  -- Examples: 
 - `client_description`: 2-3 sentence description about client, usually taken from client's literature. Examples: "The Louisiana Center for Children’s Rights is a non-profit that defends the right of every Louisiana child to fairness, dignity, and opportunity. It is the only specialized juvenile defense law office in the country and houses the Louisiana Children’s Advocacy Group that advocates for a more fair and compassionate juvenile justice system."
 
 Project team:
