@@ -21,20 +21,23 @@ Template metadata:
   It's used internally by the site generator ([Jekyll](https://jekyllrb.com/))
   to render the Markdown file into a webpage.
 
+#### Notes
+- `*` means required.
+- In YAML, list items are indented and start with `-`. 
+
 Project info:
 - `project_name*`
 - `project_tagline*`: "What is project?" in < 15 words (Tweetable).
-- `project_semesters*`: [fYY/sYY].
+- `project_semesters*`: [`fYY`/`sYY`] in chronological ordering (most recent to least recent).
 
 Client info:
-- `client_name`: if NDA, leave out. if generalized, original client
+- `client_name`: if NDA, leave blank
 - `client_description`: Usually from client, in 2-4 sentences. If NDA, broad!
 
 Project team:
 - `pm*`
 - `tl`
-- `developers*`: [names]
-- `designers`: [names]
+- `developers*`: list of names
 
 Links:
 - `github*`: repo (not URL).
