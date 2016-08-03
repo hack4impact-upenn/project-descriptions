@@ -123,11 +123,11 @@ Here's an example of the required formatting.
 layout: project
 
 summary:
-  name: Project Name
-  tagline: An app that connects nonprofits in need of high-tech solutions with students passionate about building technology for good.
+  name: PhillyFoodFinder
+  tagline: Map-based web app to find local food resources", "Report illegal vehicle idling in Philadelphia
 semesters:
   - year: 2015
-    semester: fall
+    semester: Fall
     team:
       pm: Paul McCartney
       tl: Theophilus London
@@ -139,36 +139,34 @@ semesters:
       - Dhruv Maheshwari
       - Swapneel Sheth
     clients:
-      - name: Philly Food Finder
-        description:
-        website_url:
-      - name:
-        description:
-        website_url:
+      - name: The Louisiana Center for Children’s Rights (LACCR)
+        description: The Louisiana Center for Children’s Rights is a non-profit that defends the right of every Louisiana child to fairness, dignity, and opportunity. It is the only specialized juvenile defense law office in the country and houses the Louisiana Children’s Advocacy Group that advocates for a more fair and compassionate juvenile justice system.
+        website_url: http://www.laccr.org/
 code:
-  github_repo_name:
-  live_url:
+  github_repo_name: gpcah
+  live_url: http://www.phillyfoodfinder.org/
 keywords:
-  social_impact_keyword_list:
-    -
-    -
-    -
-    -
+  social_impact_keyword_list: 
+    - microfinance
+    - education
+    - poverty
   tech_keyword_list:
-    -
-    -
-    -
-    -
+    - crowdsourcing
+    = data visualization
 screenshots:
   screenshot_url_list:
-    -
-    - 
-    -
-    -
-    -
+    - https://github.com/hack4impact/hack4impact.github.io/blob/master/projects/spring-2015/givology/ss01.png
+    - https://github.com/hack4impact/hack4impact.github.io/blob/master/projects/spring-2015/givology/ss02.png
 media:
-  article_url_list
-    -
-    -
-    -
+  article_url_list: http://generocity.org/philly/2015/08/28/philly-food-finder-app-makes-finding-affordable-food-easier/
 ---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id elit est. Ut eros tellus, suscipit in nisl in, facilisis commodo purus. Sed nec varius arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris molestie augue vel pharetra laoreet. In laoreet, est non elementum aliquam, metus ligula interdum lacus, non dapibus dolor eros sit amet turpis. Pellentesque dignissim mi vel ligula maximus, sed vestibulum lacus sagittis. Curabitur pulvinar lobortis pharetra.
+
+Donec lobortis finibus arcu, ac aliquet diam. Sed vitae dui et tellus maximus egestas quis ut quam. Nullam a gravida ante. In quis efficitur risus, in congue tortor. Integer sed lobortis urna. Etiam porta varius odio, vel sagittis purus dignissim in. Integer scelerisque dui ut accumsan finibus. Fusce id lacus auctor, malesuada quam vitae, efficitur magna. In tempor, diam ut bibendum accumsan, ex leo porta odio, a blandit sem massa in urna. Proin eleifend malesuada consectetur. Donec turpis justo, faucibus vitae ullamcorper eget, vestibulum eget ipsum. Donec sed accumsan felis, ut aliquam magna. Nullam non felis lorem. Etiam ac elementum lectus, ac lobortis mi. Suspendisse euismod maximus leo.
+
+Integer bibendum quam magna, nec fermentum mi faucibus a. Duis facilisis, nulla at finibus sollicitudin, lacus risus porttitor augue, et tristique ante mauris a velit. Nam ac tincidunt lorem. Nam nec ex quis metus suscipit sodales sed eu est. Cras convallis tristique felis, at ultricies lectus mattis ut. Nulla semper nulla eget sem ultricies, eu rutrum lacus vulputate. Donec finibus, felis at lobortis iaculis, dolor arcu finibus felis, ullamcorper sollicitudin urna magna at dolor. Ut orci elit, egestas ullamcorper semper nec, congue id dui.
+
+Maecenas a lectus sapien. Aliquam quis laoreet enim. Nam malesuada metus velit, quis sodales sem mattis a. Duis dictum, purus ut lobortis pellentesque, tellus augue placerat eros, in ornare nulla massa sed lorem. Etiam rhoncus semper ipsum, eget fringilla velit pharetra quis. In ornare pellentesque nisi id porttitor. Aenean bibendum diam non commodo dapibus. Sed a mi dui. Integer et pretium ante. Pellentesque scelerisque tristique ex, at placerat sem consequat ac. Etiam luctus sagittis dolor, eget tristique dolor aliquet quis. Suspendisse rhoncus, augue fringilla hendrerit condimentum, est enim interdum odio, eu ullamcorper lacus tellus non metus. Fusce faucibus lacus libero. Phasellus laoreet aliquam odio, eu fermentum mauris.
+
+Donec in molestie enim. Nam odio dui, accumsan at nulla in, feugiat eleifend libero. Aliquam pellentesque euismod consequat. Aenean mattis nec risus vehicula porttitor. Mauris efficitur leo eget nisi ultrices, sed venenatis sapien sodales. Donec ante nisl, ultrices non tincidunt in, accumsan vel quam. Aliquam varius imperdiet sem, molestie tincidunt metus semper ac. Fusce felis sapien, malesuada in velit eget, aliquet imperdiet dui. Maecenas suscipit ligula dui, at gravida lacus suscipit id. Curabitur vehicula porta dignissim. Vivamus viverra sed enim quis hendrerit. Mauris eros lacus, sodales non vestibulum vitae, vulputate bibendum erat.
+```
