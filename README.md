@@ -1,6 +1,6 @@
 # Hack4Impact Member Bios
 
-This repository contains basic information about Hack4Impact members that will
+This repository contains basic information about Hack4Impact projects that will
 be displayed on the [organization website](http://hack4impact.org/about/team/)
 (or will be soon!).
 
@@ -10,9 +10,9 @@ please do not commit to `master` or merge the request without approval.
 
 ## Instructions
 
-Copy the template below into a new file `firstname-lastname.md`. Each member bio
+Copy the template below into a new file `projectname.md`. Each project description
 is a Markdown file with a YAML header marked by `---`. The header contains some
-metadata, and the document body should contain paragraphs about you.
+metadata, and the document body should contain paragraphs about the project.
 
 ### Header fields
 
