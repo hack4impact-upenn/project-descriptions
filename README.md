@@ -22,9 +22,9 @@ Template metadata:
   to render the Markdown file into a webpage.
 
 Overview info:
-- `project name`*: Your project's name.
+- `project name*`: Your project's name.
 - `client_name`: Your client's name.
-- `semester`: Your project semesters, as list of strings with <lowercase semester letter><two number year suffix> i.e. `[f16, s17]`.
+- `semester*`: Your project semesters, as list of strings with <lowercase semester letter><two number year suffix> i.e. `[f16, s17]`.
 
 Contact information (each of these fields are optional, so only include the ones
 you want):
