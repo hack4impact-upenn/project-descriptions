@@ -121,7 +121,7 @@ layout: project
 
 summary:
   name: PhillyFoodFinder
-  tagline: Map-based web app to find local food resources", "Report illegal vehicle idling in Philadelphia
+  tagline: Map-based web app to find local food resources"
 semesters:
   - year: 2015
     semester: Fall
