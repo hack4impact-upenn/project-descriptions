@@ -1,7 +1,7 @@
 # Hack4Impact Project Descriptions
 
 This repository contains basic information about Hack4Impact projects that will
-be displayed on the [organization website](http://hack4impact.org/about/team/)
+be displayed on the [organization website](http://hack4impact.org/projects)
 (or will be soon!).
 
 Feel free to open a pull request to update your information at any time, but
