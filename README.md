@@ -22,35 +22,40 @@ Template metadata:
 `project`:
   `summary`:
     `name`:
-    `tagline`: < 15 words
-    `semesters`:
+    `tagline`: (< 15 words)
+    `semesters`: (sorted from most to least recent)
       - s16
       - f15
       - s15
-  `members`:
+  `team`:
     `pm`:
-    `tl`: optional
-    `devs`*:
-      - Aa Bb
-      - Cc Dd
+    `tl`: (optional)
+    `devs`: (sorted alphabetically by first name)
+      - Aa Dd
+      - Cc Bb
   `code`:
     `github_repo_name`:
-    `live_url`:
-  `keyword_lists`:
-    `social_impact_keyword_list`: 2-4 keywords
-    `tech_keyword_list`: 2-4 keywords
+    `live_url`: (optional if not completed)
+  `keywords`: (lists of 2-4 keywords, sorted alphabetically)
+    `social_impact_keyword_list`:
+      - a
+      - b
+      - c
+    `tech_keyword_list`: (2-4 keywords)
+      - d
+      - e
+      - f
   `screenshots`:
-    `screenshot_url_list`:
-      - first url
-      - second url
-    
+    `screenshot_url_list`: (sorted linearly like how you would navigate)
+      - http://hack4impact.org/first
+      - http://hack4impact.org/second
   `media`:
-    
-- `article_url_list`
-
-`clients`:
-  - `name`: if NDA, leave blank
-    `description`: usually comes from client, 2-4 sentences. If NDA, broad!
+    `article_url_list` (sorted by most to least recent)
+      - http://hack4impact.org/february16
+      - http://hack4impact.org/january16
+`clients`: (optional if client under NDA or no client)
+  - `name`:
+    `description`: (2-4 sentences)
     `website_url`
 
 ## Template
@@ -59,26 +64,44 @@ Template metadata:
 ---
 layout: project
 
-project_name:
-project_tagline:
-project_semesters:
-
-client_name:
-client_description:
-
-pm:
-tl:
-developers:
-designers:
-
-github:
-client:
-app:
-articles:
-screenshots:
-
-social_impact_keywords:
-tech keywords:
+project:
+  summary:
+    name:
+    tagline:
+    semesters:
+      - 
+      - 
+      - 
+  team:
+    `pm`:
+    `tl`: (optional)
+    `devs`: (sorted alphabetically by first name)
+      - Aa Dd
+      - Cc Bb
+  `code`:
+    `github_repo_name`:
+    `live_url`: (optional if not completed)
+  `keywords`: (lists of 2-4 keywords, sorted alphabetically)
+    `social_impact_keyword_list`:
+      - a
+      - b
+      - c
+    `tech_keyword_list`: (2-4 keywords)
+      - d
+      - e
+      - f
+  `screenshots`:
+    `screenshot_url_list`: (sorted linearly like how you would navigate)
+      - http://hack4impact.org/first
+      - http://hack4impact.org/second
+  `media`:
+    `article_url_list` (sorted by most to least recent)
+      - http://hack4impact.org/february16
+      - http://hack4impact.org/january16
+`clients`: (optional if client under NDA or no client)
+  - `name`:
+    `description`: (2-4 sentences)
+    `website_url`
 ---
 
 Add your project description here, answering each question in 2-4 sentences.
