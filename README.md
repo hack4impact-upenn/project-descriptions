@@ -21,18 +21,18 @@ Template metadata:
   to render the Markdown file into a webpage.
 
 Project info:
-- `project_name*`: Project's name.
-- `project_tagline*`: "What is project?" in <15 words (Tweetable).
+- `project_name*`
+- `project_tagline*`: "What is project?" in < 15 words (Tweetable).
 - `project_semesters*`: [fYY/sYY].
 
 Client info:
-- `client_name`: Client's name.
-- `client_description`: Client description, usually from client, in 2-4 sentences. 
+- `client_name`
+- `client_description`: Usually from client, in 2-4 sentences. 
 
 Project team:
-- `pm*`: project manager's name
-- `tl`: tech lead's name
-- `devs`: [developers' names]
+- `pm*`
+- `tl`
+- `devs`: [names]
 
 Project contact information (each of these fields are optional, so only include the ones
 you want):
