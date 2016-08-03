@@ -27,8 +27,8 @@ Project info:
 - `project_semesters*`: [fYY/sYY].
 
 Client info:
-- `client_name`: if NDA, leave out
-- `client_description`: Usually from client, in 2-4 sentences. If NDA, describe VERY broadly.
+- `client_name`: if NDA, leave out. if generalized, original client
+- `client_description`: Usually from client, in 2-4 sentences. If NDA, broad!
 
 Project team:
 - `pm*`
@@ -83,7 +83,7 @@ Why was our project technically challenging?
 
 Why was our project socially impactful?
 
-What featuress did we build and how did we build them programatically (aimed at a general, non-necessarily-technical audience)?
+What features did we build and how technologically (for general audience)?
 
 Note that you _can_ use standard **Markdown** formatting here. Please don't
 include any headers or non-paragraph elements, however.
