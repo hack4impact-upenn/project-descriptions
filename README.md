@@ -19,18 +19,23 @@ Template metadata:
   It's used internally by the site generator ([Jekyll](https://jekyllrb.com/))
   to render the Markdown file into a webpage.
 
-Information/validation:
-- `tagline`: (< 15 words)
-- `semesters`: (sorted from most to least recent)
-- `semesters/name`: s16
+Length/size:
+- `tagline`: < 15 words
+- `semesters/name`: `fYY` or `sYY`
+- `keywords`: (lists of 2-4 keywords
+- `description`: (2-4 sentences)
+
+Optional:
 - `tl`: (optional)
-- `devs`: (sorted alphabetically by first name)
 - `live_url`: (optional if not completed)
 - `keywords`: (lists of 2-4 keywords, sorted alphabetically)
 - `screenshot_url_list`: (sorted linearly like how you would navigate)
-- `article_url_list` (sorted by most to least recent)
 - `clients`: (optional if client under NDA or no client)
-- `description`: (2-4 sentences)
+
+Sorting:
+- `semesters`: (sorted from most to least recent)
+- `devs`: (sorted alphabetically by first name)
+- `article_url_list` (sorted by most to least recent)
 
 ## Template
 
