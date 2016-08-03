@@ -19,9 +19,12 @@ Template metadata:
   It's used internally by the site generator ([Jekyll](https://jekyllrb.com/))
   to render the Markdown file into a webpage.
 
+### Data information
+Formatting:
+- `semesters/name`: `fYY` or `sYY`
+
 Length/size:
 - `tagline`: < 15 words
-- `semesters/name`: `fYY` or `sYY`
 - `keywords`: (lists of 2-4 keywords
 - `description`: (2-4 sentences)
 
