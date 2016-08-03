@@ -81,6 +81,12 @@ social_impact_keywords:
 tech keywords:
 
 ---
+
+Add your bio here.
+
+Note that you _can_ use standard **Markdown** formatting here. Please don't
+include any headers or non-paragraph elements, however.
+
 ```
 
 ## Example - TODO
