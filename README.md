@@ -23,16 +23,14 @@ Template metadata:
   `summary`:
     `name`:
     `tagline`: (< 15 words)
-    `semesters`: (sorted from most to least recent)
-      - s16
-      - f15
-      - s15
-  `team`:
-    `pm`:
-    `tl`: (optional)
-    `devs`: (sorted alphabetically by first name)
-      - Aa Dd
-      - Cc Bb
+  `semesters`: (sorted from most to least recent)
+    - `name`: s16
+      `team`:
+        `pm`:
+        `tl`: (optional)
+        `devs`: (sorted alphabetically by first name)
+          - Aa Dd
+          - Cc Bb
   `code`:
     `github_repo_name`:
     `live_url`: (optional if not completed)
