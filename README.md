@@ -22,19 +22,18 @@ Template metadata:
   to render the Markdown file into a webpage.
 
 Project info:
-- `project_name*`: Your project's name. Examples: "Philly Food Finder", "Transcribe4All", "BusyBooth"
-- `project_tagline*`: Answers "What?" about the project in 15 words or less. Examples: "Map-based web app to find local food resources", "Report illegal vehicle idling in Philadelphia"
-- `project_semesters*`: List of project semesters, formatted f<YY> or s<YY>. Examples: "[f14]", "[f15, s16]".
+- `project_name*`: Project's name.
+- `project_tagline*`: "What is project?" in <15 words (Tweetable).
+- `project_semesters*`: [f/s<yy>].
 
 Client info:
-- `client_name`: Your client's name.
-  -- Examples: 
-- `client_description`: 2-3 sentence description about client, usually taken from client's literature. Examples: "The Louisiana Center for Children’s Rights is a non-profit that defends the right of every Louisiana child to fairness, dignity, and opportunity. It is the only specialized juvenile defense law office in the country and houses the Louisiana Children’s Advocacy Group that advocates for a more fair and compassionate juvenile justice system."
+- `client_name`: Client's name.
+- `client_description`: Client description, usually from client, in 2-4 sentences. 
 
 Project team:
-- `pm*`: first name, last name of project manager 
-- `tl`: first name, last name of tech lead
-- `devs`: list of first name, last name of developers
+- `pm*`: project manager's name
+- `tl`: tech lead's name
+- `devs`: [developers' names]
 
 Project contact information (each of these fields are optional, so only include the ones
 you want):
