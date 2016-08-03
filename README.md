@@ -17,14 +17,14 @@ metadata, and the document body should contain paragraphs about the project.
 ### Header fields
 
 Template metadata:
-- `layout`: **Don't change this.** This should always have the value `profile`.
+- `layout`: **Don't change this.** This should always have the value `project`.
   It's used internally by the site generator ([Jekyll](https://jekyllrb.com/))
   to render the Markdown file into a webpage.
 
-Biographical info:
-- `first_name`: Your first name.
-- `last_name`: Your last name.
-- `class_of`: Your (expected) graduating class.
+Overview info:
+- `project name`*: Your project's name.
+- `client_name`: Your client's name.
+- `semester`: Your project semesters, as list of strings with <lowercase semester letter><two number year suffix> i.e. `[f16, s17]`.
 
 Contact information (each of these fields are optional, so only include the ones
 you want):
