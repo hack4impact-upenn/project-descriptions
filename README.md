@@ -24,7 +24,7 @@ Template metadata:
 Project info:
 - `project_name*`: Project's name.
 - `project_tagline*`: "What is project?" in <15 words (Tweetable).
-- `project_semesters*`: [f/s/<yy/>].
+- `project_semesters*`: [fYY or sYY].
 
 Client info:
 - `client_name`: Client's name.
