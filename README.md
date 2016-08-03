@@ -27,8 +27,8 @@ Project info:
 - `project_semesters*`: [fYY/sYY].
 
 Client info:
-- `client_name`
-- `client_description`: Usually from client, in 2-4 sentences. 
+- `client_name`: if NDA, leave out
+- `client_description`: Usually from client, in 2-4 sentences. If NDA, describe VERY broadly.
 
 Project team:
 - `pm*`
@@ -41,18 +41,11 @@ Links:
 - `client*`: url
 - `app`: url
 - `articles`: [url]
+- `screenshots*`: [url]
 
 Keywords:
 - `social_impact_keywords`: [2-4 keywords]
 - `tech keywords`: [2-4 keywords]
-
-Project:
-- `project_statement*`: "Why did client approach us?" in 2-4 sentences.
-- `features*`: [4-10 features, aimed to general, not necessarily technical, audience]
-- `technical_challenge*`: "Why was project interesting?" in 2-4 sentences
-- `technologies*`: [languages/technologies/frameworks (short explanation of purpose if non-obvious)]
-- `impact`: "What is real and potential impact of app in use?" in 2-4 sentences.
-- `screenshots`: [url]
 
 ## Template
 
@@ -76,13 +69,21 @@ github:
 client:
 app:
 articles:
+screenshots:
 
 social_impact_keywords:
 tech keywords:
-
 ---
 
-Add your bio here.
+Add your project description here, answering each question in 2-4 sentences.
+
+Why did client approach us?
+
+Why was our project technically challenging?
+
+Why was our project socially impactful?
+
+What featuress did we build and how did we build them programatically (aimed at a general, non-necessarily-technical audience)?
 
 Note that you _can_ use standard **Markdown** formatting here. Please don't
 include any headers or non-paragraph elements, however.
