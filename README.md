@@ -41,6 +41,57 @@ Links:
 - `app`: url
 - `articles`: [url]
 
+Links
+N/A for app if not live (hopefully client has website :P)
+Github repo *
+
+Your answer
+This is a required question
+Client organization website *
+
+Your answer
+Live link! *
+
+Your answer
+Tags
+2-3 words/phrases/categories about project
+Social impact keywords *
+ie microfinance, education, food rights, juvenile justice, law. These can be pulled directly from the description of the client organization and/or the description of the project.
+
+Your answer
+Tech keywords *
+ie crowdsourcing, gamification, mobile, mapping, data analytics. These *should not* include specific technologies used (that will come later!)
+
+Your answer
+Project
+If you have a RELATED LINK for description, put “[ ]” around phrase and include link in “()” right after (markdown)
+1-3 sentences about the problem *
+Why did the client approach us? What general product did they want? It might help to have statistics/description of general problem (22% of Philly county residents are food insecure; cost of a sentence has a huge impact on a judge's ruling)
+Your answer
+
+Bulleted list of features *
+5-10 bullet points. Can mention languages/tech used, but try to avoid and also explain features in English
+Your answer
+
+2-3 sentences on a technical challenge that you faced during the project *
+Your answer
+
+Bulleted list of languages/technologies used, with purpose in parentheses *
+ie “D3 (for data visualization)”
+Your answer
+
+1-3 sentences on how app will be/is being used, and its potential/actual impact *
+feel free to elaborate on potential impact and future extensions of projects
+Your answer
+
+Are you allowed by client to send screenshots? *
+If so, please email ANY USEFUL APP SCREENSHOTS to Yoni
+Yes
+No
+Media mentions/other related links!
+Thanks!!!
+
+
 ### Exec board members
 
 In addition to the fields listed above, exec board members should include the
