@@ -20,10 +20,7 @@ Template metadata:
   to render the Markdown file into a webpage.
 
 ### Data information
-Formatting:
-- `semesters/name`: title
-
-Length/size:
+Length:
 - `tagline`: < 140 characters
 - `keywords/*`: lists of 2-4 keywords
 - `description`: 2-4 sentences
@@ -32,7 +29,7 @@ Length/size:
 Optional:
 - `tl`: optional if position did not exist
 - `live_url`: optional if deployment not completed
-- `clients`: (optional if client under NDA or no client)
+- `clients`: optional if client under NDA or no client
 
 Sorting:
 - `semesters`: sorted from most to least recent
