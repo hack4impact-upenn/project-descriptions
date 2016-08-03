@@ -22,8 +22,7 @@ Template metadata:
   to render the Markdown file into a webpage.
 
 Project info:
-- `project_name*`: Your project's name.
-  -- Examples: "Philly Food Finder", "Transcribe4All", "BusyBooth"
+- `project_name*`: Your project's name. Examples: "Philly Food Finder", "Transcribe4All", "BusyBooth"
 - `project_tagline*`: Answers "What?" about the project in 15 words or less. Examples: "Map-based web app to find local food resources", "Report illegal vehicle idling in Philadelphia"
 - `project_semesters*`: List of project semesters, formatted f<YY> or s<YY>. Examples: "[f14]", "[f15, s16]".
 
