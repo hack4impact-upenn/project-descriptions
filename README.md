@@ -25,21 +25,21 @@ Formatting:
 
 Length/size:
 - `tagline`: < 140 characters
-- `keywords`: (lists of 2-4 keywords
-- `description`: (2-4 sentences)
-- `screenshot_urs`: 3-5
+- `keywords/*`: lists of 2-4 keywords
+- `description`: 2-4 sentences
+- `screenshot_urs`: 3-5 urls
 
 Optional:
-- `tl`: (optional)
-- `live_url`: (optional if not completed)
-- `keywords`: (lists of 2-4 keywords, sorted alphabetically)
-- `screenshot_url_list`: (sorted linearly like how you would navigate)
+- `tl`: optional if position did not exist
+- `live_url`: optional if deployment not completed
 - `clients`: (optional if client under NDA or no client)
 
 Sorting:
-- `semesters`: (sorted from most to least recent)
-- `devs`: (sorted alphabetically by first name)
-- `article_url_list` (sorted by most to least recent)
+- `semesters`: sorted from most to least recent
+- `devs`: sorted alphabetically by first name
+- `article_url_list` sorted by most to least recent
+- `keywords` lists: sorted alphabetically
+- `screenshot` lists`: sorted linearly, like how you would navigate
 
 ## Template
 
@@ -139,7 +139,7 @@ semesters:
       - Dhruv Maheshwari
       - Swapneel Sheth
     clients:
-      - name:
+      - name: Philly Food Finder
         description:
         website_url:
       - name:
