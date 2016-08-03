@@ -24,7 +24,7 @@ Formatting:
 - `semesters/name`: title
 
 Length/size:
-- `tagline`: < 15 words
+- `tagline`: < 140 characters
 - `keywords`: (lists of 2-4 keywords
 - `description`: (2-4 sentences)
 - `screenshot_urs`: 3-5
@@ -67,6 +67,9 @@ semesters:
       - name:
         description:
         website_url:
+      - name:
+        description:
+        website_url:
 code:
   github_repo_name:
   live_url:
@@ -99,11 +102,12 @@ Add your project description here, answering each question in 2-4 sentences.
 
 Why did client approach us?
 
-Why was our project technically challenging?
+Why was project technically challenging?
 
-Why was our project socially impactful?
+Why was project socially impactful?
 
-What features did we build and how technologically (for general audience)?
+What features did we build and how did we build them technologically
+(for a general audience)?
 
 Note that you _can_ use standard **Markdown** formatting here. Please don't
 include any headers or non-paragraph elements, however.
@@ -116,22 +120,55 @@ Here's an example of the required formatting.
 
 ```markdown
 ---
-layout: profile
-first_name: Benjamin
-last_name: Franklin
-class_of: 1744
-alum: true
+layout: project
 
-email: benf@seas.upenn.edu
-twitter: benfranklin
-github: bfranklin
-linkedin: https://linkedin.com/in/benjamin.franklin
+summary:
+  name: Project Name
+  tagline: An app that connects nonprofits in need of high-tech solutions with students passionate about building technology for good.
+semesters:
+  - year: 2015
+    semester: fall
+    team:
+      pm: Paul McCartney
+      tl: Theophilus London
+      developers:
+      - Abe Lincoln
+      - Ali Altaf
+      - Barack Obama
+      - Chris Murphy
+      - Dhruv Maheshwari
+      - Swapneel Sheth
+    clients:
+      - name:
+        description:
+        website_url:
+      - name:
+        description:
+        website_url:
+code:
+  github_repo_name:
+  live_url:
+keywords:
+  social_impact_keyword_list:
+    -
+    -
+    -
+    -
+  tech_keyword_list:
+    -
+    -
+    -
+    -
+screenshots:
+  screenshot_url_list:
+    -
+    - 
+    -
+    -
+    -
+media:
+  article_url_list
+    -
+    -
+    -
 ---
-
-Benjamin Franklin was one of the Founding Fathers of the United States. A
-renowned polymath, Franklin was a leading author, printer, political theorist,
-politician, freemason, postmaster, scientist, inventor, civic activist,
-statesman, and diplomat. As a scientist, he was a major figure in the American
-Enlightenment and the history of physics for his discoveries and theories
-regarding electricity.
-```
