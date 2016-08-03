@@ -1,4 +1,4 @@
-# Hack4Impact Member Bios
+# Hack4Impact Project Descriptions
 
 This repository contains basic information about Hack4Impact projects that will
 be displayed on the [organization website](http://hack4impact.org/about/team/)
