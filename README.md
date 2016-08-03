@@ -21,7 +21,7 @@ Template metadata:
 
 ### Data information
 Formatting:
-- `semesters/name`: `fYY` or `sYY`
+- `semesters/name`: title
 
 Length/size:
 - `tagline`: < 15 words
@@ -50,16 +50,15 @@ project:
   summary:
     name:
     tagline:
-    semesters:
-      - 
-      - 
-      - 
-  team:
-    `pm`:
-    `tl`: (optional)
-    `devs`: (sorted alphabetically by first name)
-      - Aa Dd
-      - Cc Bb
+  semesters:
+    - season:
+    - year: 
+    - team:
+      `pm`:
+      `tl`: (optional)
+      `devs`: (sorted alphabetically by first name)
+        - Aa Dd
+        - Cc Bb
   `code`:
     `github_repo_name`:
     `live_url`: (optional if not completed)
