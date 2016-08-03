@@ -45,26 +45,13 @@ Keywords:
 - `social_impact_keywords`: [2-4 keywords]
 - `tech keywords`: [2-4 keywords]
 
-Your answer
+Project:
 - `project_statement*`: "Why did client approach us?" in 2-4 sentences.
 - `features*`: [4-10 features, aimed to general, not necessarily technical, audience]
 - `technical_challenge*`: "Why was project interesting?" in 2-4 sentences
 - `technologies*`: [languages/technologies/frameworks (short explanation of purpose if non-obvious)]
-Bulleted list of languages/technologies used, with purpose in parentheses *
-ie “D3 (for data visualization)”
-Your answer
-
-1-3 sentences on how app will be/is being used, and its potential/actual impact *
-feel free to elaborate on potential impact and future extensions of projects
-Your answer
-
-Are you allowed by client to send screenshots? *
-If so, please email ANY USEFUL APP SCREENSHOTS to Yoni
-Yes
-No
-Media mentions/other related links!
-Thanks!!!
-
+- `impact`: "What is real and potential impact of app in use?" in 2-4 sentences.
+- `screenshots`: [url]
 
 ### Exec board members
 
