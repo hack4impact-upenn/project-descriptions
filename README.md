@@ -9,34 +9,91 @@ please do not commit to `master` or merge the request without approval.
 
 ## Instructions
 
-Copy the template below into a new file `project-name.md`. Each project description
-is a Markdown file with a YAML header marked by `---`. The header contains some
-metadata, and the document body should contain paragraphs about the project
-(described below).
+Copy the template below into a new file `project-name.md`. Each project
+description is a Markdown file with a YAML header marked by `---`. The header
+contains some metadata, and the document body should contain paragraphs about
+the project (described below). All header fields are **required** unless marked
+otherwise.
 
-Template metadata:
+### Header fields
+
 - `layout`: **Don't change this.** This should always have the value `project`.
   It's used internally by the site generator ([Jekyll](https://jekyllrb.com/))
   to render the Markdown file into a webpage.
 
-### Data information
-Length:
-- `tagline`: < 140 characters
-- `keywords/*`: lists of 2-4 keywords
-- `description`: 2-4 sentences
-- `screenshot_urs`: 3-5 urls
+Summary:
 
-Optional:
-- `tl`: optional if position did not exist
-- `live_url`: optional if deployment not completed
-- `clients`: optional if client under NDA or no client
+- `name`: The name of the project.
+- `tagline`: 15 words or less. This should answer the question "What?" about
+  the project. Examples: "Map-based web app to find local food resources",
+"Report illegal vehicle idling in Philadelphia"
 
-Sorting:
-- `semesters`: sorted from most to least recent
-- `devs`: sorted alphabetically by first name
-- `article_url_list` sorted by most to least recent
-- `keywords` lists: sorted alphabetically
-- `screenshot` lists`: sorted linearly, like how you would navigate
+Team(s):
+
+- `year`: The year that the project was worked on (e.g., `2015`, `2016`).
+- `semester`: The semester that the project was worked on (`Spring` or `Fall`).
+- `pm`: The first and last name of the project's PM.
+- `tl` *(optional)*: The first and last name of the project's TL, if applicable
+- `developers`: A list of the project's developers during this semester. Names
+  should be written `FirstName LastName` and ordered alphabetically by last
+name.
+
+If this project has been worked on for multiple semesters, teams should be
+ordered from *most recent* to *least recent*.
+
+Client(s) *(optional, if the client is under NDA or the project has no
+client)*:
+
+- `name`: The name of the client organization.
+- `description`: 2-3 sentences about the organization. This can probably be
+  paraphrased from their website. For example, "The Louisiana Center for
+Children’s Rights is a non-profit that defends the right of every Louisiana
+child to fairness, dignity, and opportunity. It is the only specialized
+juvenile defense law office in the country and houses the Louisiana Children’s
+Advocacy Group that advocates for a more fair and compassionate juvenile
+justice system."
+- `website_url` *(optional)*: The client's official website. If the client
+  doesn't have a website, leave this field blank.
+
+Project:
+
+- `problem`: 1-3 sentences about the problem. Why did the client approach us?
+  What general product did they want? It might help to have
+statistics/description of general problem (22% of Philly county residents are
+food insecure; cost of a sentence has a huge impact on a judge's ruling)
+- `features`: List of 5-10 of the project's features. If you must, you can
+  mention languages/tech used in the project, but also try to explain the
+features in English.
+- `technologies`: List of languages/technologies used, with the purpose for
+  using the language/technology in this project in parentheses (e.g., `D3 (for
+data visualization)`)
+- `technical_challenges`: List of 2-to-3-sentence blurbs about technical
+  challenges that you faced during the course of this project. There should be
+at least 1 technical challenge included for each semester that this project has
+occurred.
+
+Code:
+
+- `github_repo_name`: The name of the github repo where the code for this
+  project lives. (e.g., `maps4all` -- *not* the full URL
+`https://github.com/hack4impact/maps4all`)
+- `live_url` *(optional, if deployment is not complete)*: Where this project
+  lives on the web.
+
+Keywords:
+
+- `social_impact_keywords`: A list of 2-4 social impact keywords that relate to
+  this project. Keywords should be ordered *alphabetically* in the list.
+- `tech_keywords`: A list of 2-4 tech keywords that relate to this project.
+  Keywords should be ordered *alphabetically* in the list.
+
+Media:
+
+- `screenshot_urls`: A list of 3-5 links to screenshots of the project. The
+  screenshots will be displayed on the website linearly in the order that the
+links appear in the list.
+- `article_urls` *(optional)*: A list of links to articles and other media
+  about this project.
 
 ## Template
 
@@ -45,73 +102,82 @@ Sorting:
 layout: project
 
 summary:
-  name:
-  tagline:
-semesters:
-  - year:
-    semester:
-    team:
+    name:
+    tagline:
+
+team:
+    - year:
+      semester:
       pm:
       tl:
       developers:
-      -
-      -
-      -
-      -
-      -
-      -
-    clients:
-      - name:
-        description:
-        website_url:
-      - name:
-        description:
-        website_url:
+          -
+          -
+          -
+    - year:
+      semester:
+      pm:
+      tl:
+      developers:
+          -
+          -
+          -
+
+client:
+    - name:
+      description:
+      website_url:
+    - name:
+      description:
+      website_url:
+
+project:
+    problem:
+    features:
+        -
+        -
+        -
+        -
+        -
+    technologies:
+        -
+        -
+        -
+    technical_challenges:
+        -
+
 code:
-  github_repo_name:
-  live_url:
+    github_repo_name:
+    live_url:
+
 keywords:
-  social_impact_keyword_list:
-    -
-    -
-    -
-    -
-  tech_keyword_list:
-    -
-    -
-    -
-    -
-screenshots:
-  screenshot_url_list:
-    -
-    - 
-    -
-    -
-    -
+    social_impact_keywords:
+        -
+        -
+        -
+    tech_keywords:
+        -
+        -
+        -
+
 media:
-  article_url_list
-    -
-    -
-    -
+    screenshot:
+        - screenshot_caption:
+          screenshot_url:
+        - screenshot_caption:
+          screenshot_url:
+        - screenshot_caption:
+          screenshot_url:
+    articles:
+        - article_name:
+          article_url:
+        - article_name:
+          article_url:
 ---
-
-Add your project description here, answering each question in 2-4 sentences.
-
-Why did client approach us?
-
-Why was project technically challenging?
-
-Why was project socially impactful?
-
-What features did we build and how did we build them technologically
-(for a general audience)?
-
-Note that you _can_ use standard **Markdown** formatting here. Please don't
-include any headers or non-paragraph elements, however.
 
 ```
 
-## Example - TODO
+## Example
 
 Here's an example of the required formatting.
 
@@ -120,50 +186,50 @@ Here's an example of the required formatting.
 layout: project
 
 summary:
-  name: PhillyFoodFinder
-  tagline: Map-based web app to find local food resources"
-semesters:
-  - year: 2015
-    semester: Fall
-    team:
+    name: Philly Food Finder
+    tagline: Map-based web app to find local food resources
+
+team:
+    - year: 2015
+      semester: Fall
       pm: Paul McCartney
       tl: Theophilus London
       developers:
-      - Abe Lincoln
-      - Ali Altaf
-      - Barack Obama
-      - Chris Murphy
-      - Dhruv Maheshwari
-      - Swapneel Sheth
-    clients:
+          - Ali Altaf
+          - Abe Lincoln
+          - Dhruv Maheshwari
+          - Chris Murphy
+          - Barack Obama
+          - Swapneel Sheth
+
+client:
       - name: The Louisiana Center for Children’s Rights (LACCR)
-        description: The Louisiana Center for Children’s Rights is a non-profit that defends the right of every Louisiana child to fairness, dignity, and opportunity. It is the only specialized juvenile defense law office in the country and houses the Louisiana Children’s Advocacy Group that advocates for a more fair and compassionate juvenile justice system.
+        description: >
+            The Louisiana Center for Children’s Rights is a non-profit that
+            defends the right of every Louisiana child to fairness, dignity,
+            and opportunity. It is the only specialized juvenile defense law
+            office in the country and houses the Louisiana Children’s Advocacy
+            Group that advocates for a more fair and compassionate juvenile
+            justice system.
         website_url: http://www.laccr.org/
 code:
-  github_repo_name: gpcah
-  live_url: http://www.phillyfoodfinder.org/
+    github_repo_name: gpcah
+    live_url: http://www.phillyfoodfinder.org/
+
 keywords:
-  social_impact_keyword_list: 
+  social_impact_keywords:
     - microfinance
     - education
     - poverty
   tech_keyword_list:
     - crowdsourcing
-    = data visualization
-screenshots:
+    - data visualization
+
+media:
   screenshot_url_list:
     - https://github.com/hack4impact/hack4impact.github.io/blob/master/projects/spring-2015/givology/ss01.png
     - https://github.com/hack4impact/hack4impact.github.io/blob/master/projects/spring-2015/givology/ss02.png
 media:
   article_url_list: http://generocity.org/philly/2015/08/28/philly-food-finder-app-makes-finding-affordable-food-easier/
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id elit est. Ut eros tellus, suscipit in nisl in, facilisis commodo purus. Sed nec varius arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris molestie augue vel pharetra laoreet. In laoreet, est non elementum aliquam, metus ligula interdum lacus, non dapibus dolor eros sit amet turpis. Pellentesque dignissim mi vel ligula maximus, sed vestibulum lacus sagittis. Curabitur pulvinar lobortis pharetra.
-
-Donec lobortis finibus arcu, ac aliquet diam. Sed vitae dui et tellus maximus egestas quis ut quam. Nullam a gravida ante. In quis efficitur risus, in congue tortor. Integer sed lobortis urna. Etiam porta varius odio, vel sagittis purus dignissim in. Integer scelerisque dui ut accumsan finibus. Fusce id lacus auctor, malesuada quam vitae, efficitur magna. In tempor, diam ut bibendum accumsan, ex leo porta odio, a blandit sem massa in urna. Proin eleifend malesuada consectetur. Donec turpis justo, faucibus vitae ullamcorper eget, vestibulum eget ipsum. Donec sed accumsan felis, ut aliquam magna. Nullam non felis lorem. Etiam ac elementum lectus, ac lobortis mi. Suspendisse euismod maximus leo.
-
-Integer bibendum quam magna, nec fermentum mi faucibus a. Duis facilisis, nulla at finibus sollicitudin, lacus risus porttitor augue, et tristique ante mauris a velit. Nam ac tincidunt lorem. Nam nec ex quis metus suscipit sodales sed eu est. Cras convallis tristique felis, at ultricies lectus mattis ut. Nulla semper nulla eget sem ultricies, eu rutrum lacus vulputate. Donec finibus, felis at lobortis iaculis, dolor arcu finibus felis, ullamcorper sollicitudin urna magna at dolor. Ut orci elit, egestas ullamcorper semper nec, congue id dui.
-
-Maecenas a lectus sapien. Aliquam quis laoreet enim. Nam malesuada metus velit, quis sodales sem mattis a. Duis dictum, purus ut lobortis pellentesque, tellus augue placerat eros, in ornare nulla massa sed lorem. Etiam rhoncus semper ipsum, eget fringilla velit pharetra quis. In ornare pellentesque nisi id porttitor. Aenean bibendum diam non commodo dapibus. Sed a mi dui. Integer et pretium ante. Pellentesque scelerisque tristique ex, at placerat sem consequat ac. Etiam luctus sagittis dolor, eget tristique dolor aliquet quis. Suspendisse rhoncus, augue fringilla hendrerit condimentum, est enim interdum odio, eu ullamcorper lacus tellus non metus. Fusce faucibus lacus libero. Phasellus laoreet aliquam odio, eu fermentum mauris.
-
-Donec in molestie enim. Nam odio dui, accumsan at nulla in, feugiat eleifend libero. Aliquam pellentesque euismod consequat. Aenean mattis nec risus vehicula porttitor. Mauris efficitur leo eget nisi ultrices, sed venenatis sapien sodales. Donec ante nisl, ultrices non tincidunt in, accumsan vel quam. Aliquam varius imperdiet sem, molestie tincidunt metus semper ac. Fusce felis sapien, malesuada in velit eget, aliquet imperdiet dui. Maecenas suscipit ligula dui, at gravida lacus suscipit id. Curabitur vehicula porta dignissim. Vivamus viverra sed enim quis hendrerit. Mauris eros lacus, sodales non vestibulum vitae, vulputate bibendum erat.
 ```
