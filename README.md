@@ -49,8 +49,7 @@ child to fairness, dignity, and opportunity. It is the only specialized
 juvenile defense law office in the country and houses the Louisiana Children’s
 Advocacy Group that advocates for a more fair and compassionate juvenile
 justice system."`)
-- `website_url` *(optional)*: The client's official website. If the client
-  doesn't have a website, leave this field blank.
+- `website_url` *(optional if doesn't exist)*: The client's official website.
 
 If this project has been worked on for multiple semesters, clients should be 
 ordered from *most recent to least recent*, and *alphabetically* within the
