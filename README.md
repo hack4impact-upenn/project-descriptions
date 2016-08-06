@@ -13,20 +13,20 @@ Copy the template below into a new file `project-name.md`. Each project
 description is a Markdown file with a YAML header marked by `---`. All 
 header fields are **required** unless marked otherwise.
 
-### Header fields
+## Header Fields
 
 - `layout`: **Don't change this.** This should always have the value `project`.
   It's used internally by the site generator ([Jekyll](https://jekyllrb.com/))
   to render the Markdown file into a webpage.
 
-Summary:
+### Summary:
 
 - `name`: The name of the project.
 - `tagline`: *15 words or less*. Answers the question "What?" about
   the project (e.g., `"Map-based web app to find local food resources"`,
 `"Report illegal vehicle idling in Philadelphia"`).
 
-Team(s):
+### Team(s):
 
 - `year`: The year that the project was worked on (e.g., `2015`, `2016`).
 - `semester`: The semester that the project was worked on (`Spring` or `Fall`).
@@ -39,7 +39,7 @@ name*.
 If this project has been worked on for multiple semesters, teams should be
 ordered from *most recent* to *least recent*.
 
-Client(s) *(optional, if the client is under NDA or the project has no
+### Client(s) *(optional, if the client is under NDA or the project has no
 client)*:
 
 - `name`: The name of the client organization.
@@ -57,7 +57,7 @@ If this project has been worked on for multiple semesters, clients should be
 ordered from *most recent to least recent*, and *alphabetically* within the
 same semester.
 
-Project:
+### Project:
 
 - `problem`: *1-3 sentences* about the problem. Why did the client approach us?
   What general product did they want? It might help to have
@@ -74,7 +74,7 @@ data visualization)`)
 *at least 1 technical challenge* included for each semester that this project has
 occurred.
 
-Code:
+### Code:
 
 - `github_repo_name`: The name of the github repo where the code for this
   project lives. (e.g., `maps4all` -- *not* the full URL
@@ -82,14 +82,14 @@ Code:
 - `live_url` *(optional, if deployment is not complete)*: Where this project
   lives on the web.
 
-Keywords:
+### Keywords:
 
 - `social_impact_keywords`: A list of *2-4* social impact keywords that relate to
   this project. Keywords should be ordered *alphabetically* in the list.
 - `tech_keywords`: A list of *2-4* tech keywords that relate to this project.
   Keywords should be ordered *alphabetically* in the list.
 
-Media:
+### Media:
 
 - `screenshot_urls`: A list of *3-5* links to screenshots of the project. The
   screenshots will be displayed on the website linearly in the order that the
