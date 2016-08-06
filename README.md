@@ -25,8 +25,8 @@ Summary:
 
 - `name`: The name of the project.
 - `tagline`: *15 words or less*. This should answer the question "What?" about
-  the project. Examples: "Map-based web app to find local food resources",
-"Report illegal vehicle idling in Philadelphia"
+  the project. (e.g., `"Map-based web app to find local food resources"`,
+`"Report illegal vehicle idling in Philadelphia"``)
 
 Team(s):
 
@@ -59,8 +59,8 @@ Project:
 
 - `problem`: *1-3 sentences* about the problem. Why did the client approach us?
   What general product did they want? It might help to have
-statistics and description of general problem (e.g., `"22% of Philly county residents are
-food insecure"; "cost of a sentence has a huge impact on a judge's ruling"`)
+statistics and description of general problem (e.g., `"22% of Philly county residents are 
+food insecure"`, `"cost of a sentence has a huge impact on a judge's ruling"`)
 - `features`: List of *5-10* of the project's features. If you must, you can
   mention languages/tech used in the project, but also try to explain the
 features in English.
