@@ -76,7 +76,7 @@ occurred.
 ### Code:
 
 - `github_repo_name`: The name of the github repo where the code for this
-  project lives. (e.g., `maps4all` -- *not* the full URL
+  project lives. (i.e. `maps4all` -- *not* the full URL
 `https://github.com/hack4impact/maps4all`)
 - `live_url` *(optional, if deployment is not complete)*: Where this project
   lives on the web.
