@@ -46,30 +46,30 @@ client)*:
 
 - `name`: The name of the client organization.
 - `description`: *2-3 sentences* about the organization. This can probably be
-  paraphrased from their website. E.g. "The Louisiana Center for
+  paraphrased from their website. (i.e. `"The Louisiana Center for
 Children’s Rights is a non-profit that defends the right of every Louisiana
 child to fairness, dignity, and opportunity. It is the only specialized
 juvenile defense law office in the country and houses the Louisiana Children’s
 Advocacy Group that advocates for a more fair and compassionate juvenile
-justice system."
+justice system."`)
 - `website_url` *(optional)*: The client's official website. If the client
   doesn't have a website, leave this field blank.
 
 Project:
 
-- `problem`: 1-3 sentences about the problem. Why did the client approach us?
+- `problem`: *1-3 sentences* about the problem. Why did the client approach us?
   What general product did they want? It might help to have
-statistics/description of general problem (22% of Philly county residents are
-food insecure; cost of a sentence has a huge impact on a judge's ruling)
-- `features`: List of 5-10 of the project's features. If you must, you can
+statistics and description of general problem (e.g., `"22% of Philly county residents are
+food insecure"; "cost of a sentence has a huge impact on a judge's ruling"`)
+- `features`: List of *5-10* of the project's features. If you must, you can
   mention languages/tech used in the project, but also try to explain the
 features in English.
 - `technologies`: List of languages/technologies used, with the purpose for
   using the language/technology in this project in parentheses (e.g., `D3 (for
 data visualization)`)
-- `technical_challenges`: List of 2-to-3-sentence blurbs about technical
+- `technical_challenges`: List of *2-to-3-sentence* blurbs about technical
   challenges that you faced during the course of this project. There should be
-at least 1 technical challenge included for each semester that this project has
+*at least 1 technical challenge* included for each semester that this project has
 occurred.
 
 Code:
@@ -82,14 +82,14 @@ Code:
 
 Keywords:
 
-- `social_impact_keywords`: A list of 2-4 social impact keywords that relate to
+- `social_impact_keywords`: A list of *2-4* social impact keywords that relate to
   this project. Keywords should be ordered *alphabetically* in the list.
-- `tech_keywords`: A list of 2-4 tech keywords that relate to this project.
+- `tech_keywords`: A list of *2-4* tech keywords that relate to this project.
   Keywords should be ordered *alphabetically* in the list.
 
 Media:
 
-- `screenshot_urls`: A list of 3-5 links to screenshots of the project. The
+- `screenshot_urls`: A list of *3-5* links to screenshots of the project. The
   screenshots will be displayed on the website linearly in the order that the
 links appear in the list.
 - `article_urls` *(optional)*: A list of links to articles and other media
