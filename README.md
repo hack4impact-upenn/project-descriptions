@@ -95,7 +95,7 @@ Media:
   screenshots will be displayed on the website linearly in the order that the
 links appear in the list.
 - `article_urls` *(optional)*: A list of links to articles and other media
-  about this project.
+  about this project. Articles should be ordered from *most recent to least recent*.
 
 ## Template
 
