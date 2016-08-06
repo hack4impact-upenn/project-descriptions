@@ -24,7 +24,7 @@ otherwise.
 Summary:
 
 - `name`: The name of the project.
-- `tagline`: 15 words or less. This should answer the question "What?" about
+- `tagline`: _15 words or less_. This should answer the question "What?" about
   the project. Examples: "Map-based web app to find local food resources",
 "Report illegal vehicle idling in Philadelphia"
 
