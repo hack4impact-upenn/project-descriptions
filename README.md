@@ -10,10 +10,8 @@ please do not commit to `master` or merge the request without approval.
 ## Instructions
 
 Copy the template below into a new file `project-name.md`. Each project
-description is a Markdown file with a YAML header marked by `---`. The header
-contains some metadata, and the document body should contain paragraphs about
-the project (described below). All header fields are **required** unless marked
-otherwise.
+description is a Markdown file with a YAML header marked by `---`. All 
+header fields are **required** unless marked otherwise.
 
 ### Header fields
 
