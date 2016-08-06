@@ -39,8 +39,7 @@ name*.
 If this project has been worked on for multiple semesters, teams should be
 ordered from *most recent* to *least recent*.
 
-### Client(s) *(optional, if the client is under NDA or the project has no
-client)*:
+### Client(s) *(optional, if the client is under NDA or the project has no client)*:
 
 - `name`: The name of the client organization.
 - `description`: *2-3 sentences* about the organization. This can probably be
