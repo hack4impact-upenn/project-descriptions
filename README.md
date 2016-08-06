@@ -53,6 +53,9 @@ justice system."`)
 - `website_url` *(optional)*: The client's official website. If the client
   doesn't have a website, leave this field blank.
 
+If this project has been worked on for multiple semesters, clients should be 
+ordered from most recent to least recent, and alphabetically within the same semester.
+
 Project:
 
 - `problem`: *1-3 sentences* about the problem. Why did the client approach us?
