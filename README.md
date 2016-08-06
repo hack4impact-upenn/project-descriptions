@@ -24,7 +24,7 @@ otherwise.
 Summary:
 
 - `name`: The name of the project.
-- `tagline`: _15 words or less_. This should answer the question "What?" about
+- `tagline`: *15 words or less*. This should answer the question "What?" about
   the project. Examples: "Map-based web app to find local food resources",
 "Report illegal vehicle idling in Philadelphia"
 
@@ -35,8 +35,8 @@ Team(s):
 - `pm`: The first and last name of the project's PM.
 - `tl` *(optional)*: The first and last name of the project's TL, if applicable
 - `developers`: A list of the project's developers during this semester. Names
-  should be written `FirstName LastName` and ordered alphabetically by last
-name.
+  should be written `FirstName LastName` and ordered *alphabetically by last
+name*.
 
 If this project has been worked on for multiple semesters, teams should be
 ordered from *most recent* to *least recent*.
