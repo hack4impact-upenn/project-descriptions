@@ -46,7 +46,7 @@ client)*:
 
 - `name`: The name of the client organization.
 - `description`: 2-3 sentences about the organization. This can probably be
-  paraphrased from their website. For example, "The Louisiana Center for
+  paraphrased from their website. E.g. "The Louisiana Center for
 Children’s Rights is a non-profit that defends the right of every Louisiana
 child to fairness, dignity, and opportunity. It is the only specialized
 juvenile defense law office in the country and houses the Louisiana Children’s
