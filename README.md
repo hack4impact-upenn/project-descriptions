@@ -22,7 +22,7 @@ header fields are **required** unless marked otherwise.
 Summary:
 
 - `name`: The name of the project.
-- `tagline`: *15 words or less*. This should answer the question "What?" about
+- `tagline`: *15 words or less*. Answers the question "What?" about
   the project (e.g., `"Map-based web app to find local food resources"`,
 `"Report illegal vehicle idling in Philadelphia"`).
 
