@@ -102,88 +102,6 @@ they will be displayed on the website in the order that the links appear in the 
 
 Articles should be ordered from *most recent to least recent*.
 
-## Template
-
-```markdown
----
-layout: project
-
-summary:
-    name:
-    tagline:
-
-team:
-    - year:
-      semester:
-      pm:
-      tl:
-      developers:
-          -
-          -
-          -
-    - year:
-      semester:
-      pm:
-      tl:
-      developers:
-          -
-          -
-          -
-
-client:
-    - name:
-      description:
-      website_url:
-    - name:
-      description:
-      website_url:
-
-project:
-    problem:
-    features:
-        -
-        -
-        -
-        -
-        -
-    technologies:
-        -
-        -
-        -
-    technical_challenges:
-        -
-
-code:
-    github_repo_name:
-    live_url:
-
-keywords:
-    social_impact_keywords:
-        -
-        -
-        -
-    tech_keywords:
-        -
-        -
-        -
-
-screenshots:
-    - screenshot_caption:
-      screenshot_url:
-    - screenshot_caption:
-      screenshot_url:
-    - screenshot_caption:
-      screenshot_url:
-
-articles:
-    - article_title:
-      article_url:
-    - article_title:
-      article_url:
----
-
-```
-
 ## Example
 
 Here's an example of the required formatting.
@@ -210,15 +128,31 @@ team:
           - Swapneel Sheth
 
 client:
-      - name: The Louisiana Center for Children’s Rights (LACCR)
-        description: >
-            The Louisiana Center for Children’s Rights is a non-profit that
-            defends the right of every Louisiana child to fairness, dignity,
-            and opportunity. It is the only specialized juvenile defense law
-            office in the country and houses the Louisiana Children’s Advocacy
-            Group that advocates for a more fair and compassionate juvenile
-            justice system.
-        website_url: http://www.laccr.org/
+    - name: The Louisiana Center for Children’s Rights (LACCR)
+      description: >
+          The Louisiana Center for Children’s Rights is a non-profit that
+          defends the right of every Louisiana child to fairness, dignity,
+          and opportunity. It is the only specialized juvenile defense law
+          office in the country and houses the Louisiana Children’s Advocacy
+          Group that advocates for a more fair and compassionate juvenile
+          justice system.
+      website_url: http://www.laccr.org/
+
+project:
+    problem:
+    features:
+        -
+        -
+        -
+        -
+        -
+    technologies:
+        -
+        -
+        -
+    technical_challenges:
+        -
+
 code:
     github_repo_name: gpcah
     live_url: http://www.phillyfoodfinder.org/
@@ -228,15 +162,18 @@ keywords:
     - microfinance
     - education
     - poverty
-  tech_keyword_list:
+  tech_keywords:
     - crowdsourcing
     - data visualization
 
-media:
-  screenshot_url_list:
-    - https://github.com/hack4impact/hack4impact.github.io/blob/master/projects/spring-2015/givology/ss01.png
-    - https://github.com/hack4impact/hack4impact.github.io/blob/master/projects/spring-2015/givology/ss02.png
-media:
-  article_url_list: http://generocity.org/philly/2015/08/28/philly-food-finder-app-makes-finding-affordable-food-easier/
+screenshots:
+    - screenshot_caption: Landing page with data visualizations
+      screenshot_url: https://github.com/hack4impact/hack4impact.github.io/blob/master/projects/spring-2015/givology/ss01.png
+    - screenshot_caption: You've Donated To and You've Volunteered views
+      screenshot_url: https://github.com/hack4impact/hack4impact.github.io/blob/master/projects/spring-2015/givology/ss02.png
+
+articles:
+    - article_title: Philly Food Finder app makes finding affordable food easier
+      article_url: http://generocity.org/philly/2015/08/28/philly-food-finder-app-makes-finding-affordable-food-easier/
 ---
 ```
