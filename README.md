@@ -57,7 +57,7 @@ same semester.
 
 ### Project:
 
-- `problem`: *1-3 sentences* about the problem. Why did the client approach us?
+- `problem`: *2-4 sentences* about the problem. Why did the client approach us?
   What general product did they want? It might help to have
 statistics and description of general problem (e.g., `"22% of Philly county residents are 
 food insecure"`, `"cost of a sentence has a huge impact on a judge's ruling"`)
@@ -139,19 +139,32 @@ client:
       website_url: http://www.laccr.org/
 
 project:
-    problem:
+    problem: >
+        In Philadelphia county, 22% of residents are food-insecure. While 
+        there are food assistance programs -- including food pantries, 
+        soup kitchens, and senior meal sites -- available to Philadelphians, 
+        such resources may be difficult for those in need to learn about 
+        or find.  Our client, the Philadelphia Food Policy Advisory 
+        Council (FPAC), tackled this problem by creating the Food Resources 
+        Toolkit, a comprehensive guide to food resources in Philadelphia. 
+        Our task was to adapt the Food Resources Toolkit for the web -- to 
+        develop a central web-based tool where individuals can find all 
+        food resources that are available within their zip code. 
     features:
-        -
-        -
-        -
-        -
-        -
+        - An intuitive map-based interface that visitors use to search for 
+          food resources by zip code and other optional criteria.
+        - A suite of administrative functions that will allow the FPAC to 
+          easily add and update food resources and other content on the website
+        - Managers of food resources within Philadelphia can submit their food 
+          resource’s information for inclusion in the website’s database.
     technologies:
-        -
-        -
-        -
+        - Google Maps API (for entire map functionality)
+        - Firebase (for storing our data)
+        - Flask (for web app framework)
     technical_challenges:
-        -
+        - Loading all the resources on our map increased loading time. 
+          We solved the problem by using Javascript to load different
+          parts of the page asynchronously.
 
 code:
     github_repo_name: gpcah
