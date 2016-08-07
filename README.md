@@ -95,7 +95,7 @@ occurred.
 There should be *3-5* screenshots. Screenshots should be ordered *linearly*, as 
 they will be displayed on the website in the order that the links appear in the list.
 
-### Article(s): *optional* if no articles
+### Article(s): *(optional if no articles)*
 
 - `article_title`: The article's title.
 - `article_url`: The article's url.
