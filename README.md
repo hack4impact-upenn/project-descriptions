@@ -39,7 +39,7 @@ name*.
 If this project has been worked on for multiple semesters, teams should be
 ordered from *most recent* to *least recent*.
 
-### Client(s) *(optional, if the client is under NDA or the project has no client)*:
+### Client(s): *(optional, if the client is under NDA or the project has no client)*:
 
 - `name`: The name of the client organization.
 - `description`: *2-3 sentences* about the organization. This can probably be
@@ -87,13 +87,20 @@ occurred.
 - `tech_keywords`: A list of *2-4* tech keywords that relate to this project.
   Keywords should be ordered *alphabetically* in the list.
 
-### Media:
+### Screenshot(s):
 
-- `screenshot_urls`: A list of *3-5* links to screenshots of the project. The
-  screenshots will be displayed on the website linearly in the order that the
-links appear in the list.
-- `article_urls` *(optional)*: A list of links to articles and other media
-  about this project. Articles should be ordered from *most recent to least recent*.
+- `screenshot_caption`: The screenshot's caption.
+- `screenshot_url`: The screenshot's url.
+
+There should be *3-5* screenshots. Screenshots should be ordered *linearly*, as 
+they will be displayed on the website in the order that the links appear in the list.
+
+### Article(s): *optional* if no articles
+
+- `article_title`: The article's title.
+- `article_url`: The article's url.
+
+Articles should be ordered from *most recent to least recent*.
 
 ## Template
 
@@ -160,19 +167,19 @@ keywords:
         -
         -
 
-media:
-    screenshot:
-        - screenshot_caption:
-          screenshot_url:
-        - screenshot_caption:
-          screenshot_url:
-        - screenshot_caption:
-          screenshot_url:
-    articles:
-        - article_name:
-          article_url:
-        - article_name:
-          article_url:
+screenshots:
+    - screenshot_caption:
+      screenshot_url:
+    - screenshot_caption:
+      screenshot_url:
+    - screenshot_caption:
+      screenshot_url:
+
+articles:
+    - article_title:
+      article_url:
+    - article_title:
+      article_url:
 ---
 
 ```
