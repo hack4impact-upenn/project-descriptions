@@ -96,7 +96,7 @@ Media:
   captions (`screenshot_caption`) of the project. The screenshots will be
 displayed on the website linearly in the order that the links appear in the
 list.
-- `article` *(optional)*: A list of article names (`article_name`) and links
+- `articles` *(optional)*: A list of article names (`article_name`) and links
   (`article_url`) about this project.
 
 ## Template
