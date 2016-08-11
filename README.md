@@ -93,7 +93,7 @@ Keywords:
 Media:
 
 - `screenshots`: A list of 3-5 links to screenshots (`screenshot_url`) and
-  captions (`screen_shot_caption`) of the project. The screenshots will be
+  captions (`screenshot_caption`) of the project. The screenshots will be
 displayed on the website linearly in the order that the links appear in the
 list.
 - `article` *(optional)*: A list of article names (`article_name`) and links
