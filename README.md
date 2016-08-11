@@ -71,6 +71,9 @@ data visualization)`)
   challenges that you faced during the course of this project. There should be
 at least 1 technical challenge included for each semester that this project has
 occurred.
+- `impact`: 1-3 sentences on how app will be/is being used, and its
+  potential/actual impact. Feel free to elaborate on potential impact and
+future extensions of the project.
 
 Code:
 
@@ -146,6 +149,7 @@ project:
         -
     technical_challenges:
         -
+    impact:
 
 code:
     github_repo_name:
@@ -187,50 +191,89 @@ Here's an example of the required formatting.
 layout: project
 
 summary:
-    name: Philly Food Finder
-    tagline: Map-based web app to find local food resources
+    name: Federalist Papers
+    tagline: >
+        A collection of 85 articles and essays promoting the ratification of
+        the United States Constitution
 
 team:
-    - year: 2015
+    - year: 1787
       semester: Fall
-      pm: Paul McCartney
-      tl: Theophilus London
+      pm: Alexander Hamilton
+      tl: James Madison
       developers:
-          - Ali Altaf
-          - Abe Lincoln
-          - Dhruv Maheshwari
-          - Chris Murphy
-          - Barack Obama
-          - Swapneel Sheth
+          - John Jay
 
 client:
-      - name: The Louisiana Center for Children’s Rights (LACCR)
-        description: >
-            The Louisiana Center for Children’s Rights is a non-profit that
-            defends the right of every Louisiana child to fairness, dignity,
-            and opportunity. It is the only specialized juvenile defense law
-            office in the country and houses the Louisiana Children’s Advocacy
-            Group that advocates for a more fair and compassionate juvenile
-            justice system.
-        website_url: http://www.laccr.org/
+    - name: United States Constitution
+      description: >
+          The Constitution of the United States of America is the supreme law
+          of the United States. Empowered with the sovereign authority of the
+          people by the framers and the consent of the legislatures of the
+          states, it is the source of all government powers, and also provides
+          important limitations on the government that protect the fundamental
+          rights of United States citizens.
+      website_url: https://www.whitehouse.gov/1600/constitution
+
+project:
+    problem: >
+        The process set out in the Constitution for its ratification provides
+        for much popular debate in the states. The Constitution cannot take
+        effect until it had been ratified by nine of the thirteen state
+        legislatures -- unanimity is not required. The Federalists need to
+        convince the country of the Constitution's merit.
+    features:
+        - Analysis of the groups opposing the proposed Constitution.
+        - Warnings of the dangers of factions.
+        - Advocacy for a large republic.
+        - >
+              Explanation of the structure of the Constitution, its checks and
+              balances, and how it protects the rights of the people.
+    technologies:
+        - ink
+        - quill pens
+        - paper
+    technical_challenges:
+        - >
+              Eighteenth century printing technology prevented the regular
+              publishing of the Federalist papers outside New York state.
+              Hamilton tirelessly worked to have the essays reprinted in
+              newpapers outside of New York, and indeed they were published in
+              several other states where the Constitution ratification debate
+              was taking place; however, in other parts of the country they
+              were often overshadowed by local writers.
+    impact: >
+        To this day, the Federalist Papers serve as an invaluable resource for
+        understanding some of the framers' intentions for the Constitution.
+
 code:
-    github_repo_name: gpcah
-    live_url: http://www.phillyfoodfinder.org/
+    github_repo_name: federalist-papers
+    live_url: https://www.congress.gov/resources/display/content/The+Federalist+Papers
 
 keywords:
-  social_impact_keywords:
-    - microfinance
-    - education
-    - poverty
-  tech_keyword_list:
-    - crowdsourcing
-    - data visualization
+    social_impact_keywords:
+        - democracy
+        - education
+        - ratification
+    tech_keywords:
+        - crowdsourcing
 
 media:
-  screenshot_url_list:
-    - https://github.com/hack4impact/hack4impact.github.io/blob/master/projects/spring-2015/givology/ss01.png
-    - https://github.com/hack4impact/hack4impact.github.io/blob/master/projects/spring-2015/givology/ss02.png
-media:
-  article_url_list: http://generocity.org/philly/2015/08/28/philly-food-finder-app-makes-finding-affordable-food-easier/
+    screenshots:
+        - screenshot_caption: The Federalist Papers
+          screenshot_url: https://upload.wikimedia.org/wikipedia/commons/1/12/The_Federalist_(1st_ed,_1788,_vol_I,_title_page).jpg
+        - screenshot_caption: Alexander Hamilton, author of 51 articles of the Federalist Papers
+          screenshot_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Alexander_Hamilton_portrait_by_John_Trumbull_1806.jpg/1280px-Alexander_Hamilton_portrait_by_John_Trumbull_1806.jpg
+        - screenshot_caption: James Madison, author of 26 articles of the Federalist Papers
+          screenshot_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/1280px-James_Madison.jpg
+        - screenshot_caption: John Jay, author of 5 articles of the Federalist Papers
+          screenshot_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/John_Jay_%28Gilbert_Stuart_portrait%29.jpg/440px-John_Jay_%28Gilbert_Stuart_portrait%29.jpg
+    articles:
+        - article_name: Better Than a 'Hamilton' Shout-Out? John Jay Manuscript Surfaces
+          article_url: http://artsbeat.blogs.nytimes.com/2016/05/05/better-than-a-hamilton-shout-out-john-jay-manuscript-surfaces/?_r=0
+        - article_name: Reviewing the Authors Of the Federalist Papers
+          article_url: http://www.nytimes.com/1981/05/24/nyregion/l-reviewing-the-authors-of-the-federalist-papers-131051.html
+
 ---
+
 ```
