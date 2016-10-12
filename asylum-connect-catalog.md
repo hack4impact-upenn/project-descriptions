@@ -2,8 +2,8 @@
 layout: project
 
 summary:
-    name:
-    tagline:
+    name: Asylum Connect Catalog
+    tagline: a dynamic, online, centralized database of service providers useful to LGBTQ asylum seekers in the U.S.
 
 team:
     - year:
