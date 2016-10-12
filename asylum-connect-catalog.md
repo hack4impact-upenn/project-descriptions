@@ -6,22 +6,14 @@ summary:
     tagline: dynamic, online, centralized database of service providers useful to LGBTQ asylum seekers in the U.S.
 
 team:
-    - year:
-      semester:
+    - year: 2016
+      semester: Fall
       pm:
-      tl:
+      tl: Yoni Nachmany
       developers:
-          -
-          -
-          -
-    - year:
-      semester:
-      pm:
-      tl:
-      developers:
-          -
-          -
-          -
+          - Hunter Lightman
+          - Hana Pearlman
+          - Veronica Wharton
 
 client:
     - name:
