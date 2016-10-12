@@ -32,7 +32,7 @@ Team(s):
 
 - `year`: The year that the project was worked on (e.g., `2015`, `2016`).
 - `semester`: The semester that the project was worked on (`Spring` or `Fall`).
-- `pm`: The first and last name of the project's PM.
+- `pm` *(optional)*: The first and last name of the project's PM.
 - `tl` *(optional)*: The first and last name of the project's TL, if applicable.
 - `developers`: A list of the project's developers during this semester. Names
   should be written `FirstName LastName` and ordered alphabetically by last
