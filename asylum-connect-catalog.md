@@ -16,12 +16,9 @@ team:
           - Veronica Wharton
 
 client:
-    - name:
-      description:
-      website_url:
-    - name:
-      description:
-      website_url:
+    - name: AsylumConnect
+      description: AsylumConnect is an incorporated nonprofit startup creating the first website and mobile app to feature an online, centralized database of service providers for LGBTQ asylum seekers in the U.S. The AsylumConnect catalog will help persecuted LGBTQ people find fundamental human needs resources upon their arrival in the U.S.
+      website_url: http://www.asylumconnect.org/
 
 project:
     problem:
