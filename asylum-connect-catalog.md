@@ -37,10 +37,10 @@ project:
         - Searching resources by location (e.g., Select a City - Philly / Seattle)
         - Basic data integrity & privacy (minimize collection of identifying user information)
         - Basic Google Analytics to track custom user actions
-        - Better resource geospatial visualization - geolocation, directions, Google Street View
-        - Ability to endorse features
-        - When submitting a resource, check if resource already exists (de-duping)
-        - Being able to sort resources by proximity
+        - (Nice to have) Better resource geospatial visualization - geolocation, directions, Google Street View
+        - (Nice to have) Ability to endorse features
+        - (Nice to have) When submitting a resource, check if resource already exists (de-duping)
+        - (Nice to have) Being able to sort resources by proximity
     technologies:
         - Python
         - Flask (for web application microframework)
