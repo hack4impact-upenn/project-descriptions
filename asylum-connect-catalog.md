@@ -63,13 +63,13 @@ code:
 
 keywords:
     social_impact_keywords:
-        -
-        -
-        -
+        - LGBTQ
+        - asylum
+        - services
     tech_keywords:
-        -
-        -
-        -
+        - crowdsourcing
+        - open-source
+        - privacy
 
 media:
     screenshots:
