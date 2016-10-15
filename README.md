@@ -64,7 +64,7 @@ food insecure; cost of a sentence has a huge impact on a judge's ruling)
 - `features`: List of 5-10 of the project's features. If you must, you can
   mention languages/tech used in the project, but also try to explain the
 features in English.
-- `technologies`: List of languages/technologies used, with the purpose for
+- `technologies`: List of 5-10 languages/technologies used, with the purpose for
   using the language/technology in this project in parentheses (e.g., `D3 (for
 data visualization)`)
 - `technical_challenges`: List of 2-to-3-sentence blurbs about technical
