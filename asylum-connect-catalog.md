@@ -42,7 +42,7 @@ project:
     impact: Upon arrival to the U.S. from countries where they are persecuted because of their sexual orientation or gender expression, LGBTQ asylum seekers often have nowhere to go, no social support, and no legal right to work - many end up homeless. AsylumConnect strives to rectify this situation by assisting asylum seekers in locating and obtaining lifesaving resources. This simple idea has the potential to benefit an estimated 300,000 LGBTQ asylum seekers.
 
 code:
-    github_repo_name:
+    github_repo_name: https://github.com/asylumconnect/asylum-connect-catalog
     live_url:
 
 keywords:
