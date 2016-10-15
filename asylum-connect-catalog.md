@@ -34,9 +34,13 @@ project:
         - When submitting a resource, check if resource already exists (de-duping)
         - Being able to sort resources by proximity
     technologies:
-        -
-        -
-        -
+        - Python
+        - Flask (for web application microframework)
+        - Flask-SQLAlchemy (for databases)
+        - Flask-WTF (for forms)
+        - Flask-Assets (for asset management and SCSS compilation)
+        - Flask-Mail (for sending emails)
+        - Bootstrap (for responsive, mobile first framework for HTML, CSS, and JS)
     technical_challenges:
         -
     impact: Upon arrival to the U.S. from countries where they are persecuted because of their sexual orientation or gender expression, LGBTQ asylum seekers often have nowhere to go, no social support, and no legal right to work - many end up homeless. AsylumConnect strives to rectify this situation by assisting asylum seekers in locating and obtaining lifesaving resources. This simple idea has the potential to benefit an estimated 300,000 LGBTQ asylum seekers.
