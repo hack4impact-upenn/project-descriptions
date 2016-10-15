@@ -21,13 +21,18 @@ client:
       website_url: http://www.asylumconnect.org/
 
 project:
-    problem:
+    problem: AsylumConnect’s current resource verification model is a bottleneck, as volunteers must search for and independently verify resources for each city that the organization expands into. In addition, volunteers are not (all) members of our target community, and therefore not the best-equipped to verify whether or not a resource is LGBTQ-friendly, asylum seeker-friendly, etc. By allowing community members to tag, verify, and endorse resources, AsylumConnect will empower its niche and highly marginalized community while also keeping members as safe as possible.
     features:
-        -
-        -
-        -
-        -
-        -
+        - Dynamic resource database with CRUD (create, read, update, delete) capabilities
+        - Automated form for resource submission, editing & reporting that publishes publication requests to the admin console
+        - “Admin console” for managing, editing, approving or rejecting resource submissions
+        - Searching resources by location (e.g., Select a City: Philly / Seattle)
+        - Basic data integrity & privacy (minimize collection of identifying user information)
+        - Basic Google Analytics to track custom user actions
+        - Better resource geospatial visualization
+        - Ability to endorse features
+        - When submitting a resource, check if resource already exists (de-duping)
+        - Being able to sort resources by proximity
     technologies:
         -
         -
