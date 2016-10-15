@@ -21,7 +21,7 @@ client:
       website_url: http://www.asylumconnect.org/
 
 project:
-    problem: AsylumConnect’s current resource verification model is a bottleneck, as volunteers must search for and independently verify resources for each city that the organization expands into. In addition, volunteers are not (all) members of our target community, and therefore not the best-equipped to verify whether or not a resource is LGBTQ-friendly, asylum seeker-friendly, etc. By allowing community members to tag, verify, and endorse resources, AsylumConnect will empower its niche and highly marginalized community while also keeping members as safe as possible.
+    problem: AsylumConnect’s current resource verification model is a bottleneck, as volunteers must search for and independently verify resources for each city that the organization expands into. In addition, volunteers are not (all) members of our target community, and therefore not the best-equipped to verify whether or not a resource is LGBTQ-friendly, asylum seeker-friendly, etc. By allowing community members to tag, verify, endorse, and report resources, AsylumConnect will empower its niche and highly marginalized community while also keeping members as safe as possible.
     features:
         - Dynamic resource database with CRUD (create, read, update, delete) capabilities
         - Automated form for resource submission, editing & reporting that publishes publication requests to the admin console
