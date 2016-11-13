@@ -43,13 +43,13 @@ code:
 
 keywords:
     social_impact_keywords:
-        -
-        -
-        -
+        - microfinance
+        - poverty
+        - volunteer-management
     tech_keywords:
-        -
-        -
-        -
+        - crowdsourcing
+        - gamification
+        - upvoting
 
 media:
     screenshots:
