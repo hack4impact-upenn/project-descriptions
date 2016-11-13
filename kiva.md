@@ -16,12 +16,9 @@ team:
           - Arman Tokanov
 
 client:
-    - name:
-      description:
-      website_url:
-    - name:
-      description:
-      website_url:
+    - name: Kiva
+      description: Kiva is a non-profit organization with a mission to connect people through lending to alleviate poverty. Leveraging the internet and a worldwide network of microfinance institutions, Kiva lets individuals lend as little as $25 to help create opportunity around the world.
+      website_url: https://www.kiva.org/
 
 project:
     problem:
