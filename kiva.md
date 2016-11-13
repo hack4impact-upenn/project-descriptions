@@ -23,11 +23,11 @@ client:
 project:
     problem: Kiva came to us with the goal of building an app that would allow them to more quickly approve loans to entrepreneurs around the world. With the recent addition of Kiva Zip, a new Kiva product that allows non-traditional lending institutions (such as churches and schools), Kiva was receiving thousands of loan applications and needed a process by which to crowd-source application reading. Beyond just reviewing loan applications, the “Crowd-based Due Diligence App” needed to be a useful tool for Kiva administrators and create an effective user experience for volunteers.
     features:
-        -
-        -
-        -
-        -
-        -
+        - Gamification to help incentivize volunteers to continue working
+        - Document viewer so that each loan application could be viewed as the review was being completed
+        - Dashboard for administrators to quickly see aggregated statistics per loan application 
+        - Question upvote mechanisms for volunteers to determine what other information would be useful in evaluating the loan
+        - Training/Resources for volunteers
     technologies:
         -
         -
