@@ -6,22 +6,15 @@ summary:
     tagline: Leverage volunteers to more quickly give loans to sustainable social organizations worldwide.
 
 team:
-    - year:
-      semester:
-      pm:
+    - year: 2014
+      semester: Fall
+      pm: Dhruv Maheshwari
       tl:
       developers:
-          -
-          -
-          -
-    - year:
-      semester:
-      pm:
-      tl:
-      developers:
-          -
-          -
-          -
+          - Alex Harelick
+          - Yoni Nachmany
+          - Rodrigo Ornelas
+          - Arman Tokanov
 
 client:
     - name:
