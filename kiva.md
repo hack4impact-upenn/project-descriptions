@@ -9,7 +9,6 @@ team:
     - year: 2014
       semester: Fall
       pm: Dhruv Maheshwari
-      tl:
       developers:
           - Alex Harelick
           - Yoni Nachmany
