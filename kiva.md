@@ -53,15 +53,8 @@ keywords:
 
 media:
     screenshots:
-        - screenshot_caption:
-          screenshot_url:
-        - screenshot_caption:
-          screenshot_url:
-        - screenshot_caption:
-          screenshot_url:
-    articles:
-        - article_name:
-          article_url:
-        - article_name:
-          article_url:
+        - screenshot_caption: Dashboard for administrators to quickly see aggregated statistics per loan application 
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/Kiva/master/dashboard.png
+        - screenshot_caption: Loan application review
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/Kiva/master/form.png
 ---
