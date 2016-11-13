@@ -29,9 +29,11 @@ project:
         - Question upvote mechanisms for volunteers to determine what other information would be useful in evaluating the loan
         - Training/Resources for volunteers
     technologies:
-        -
-        -
-        -
+        - HTML (for front-end)
+        - CSS (for front-end)
+        - JS/JQuery (for front-end) 
+        - Node/Express (for web-app framework)
+        - MongoDB (for database)
     technical_challenges:
         -
     impact:
