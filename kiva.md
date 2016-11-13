@@ -21,7 +21,7 @@ client:
       website_url: https://www.kiva.org/
 
 project:
-    problem: Kiva came to us with the goal of building an app that would allow them to more quickly approve loans to entrepreneurs around the world. With the recent addition of Kiva Zip, a new Kiva product that allows non-traditional lending institutions (such as churches and schools), Kiva was receiving thousands of loan applications and needed a process by which to crowd-source application reading. Beyond just reviewing loan applications, the “Crowd-based Due Diligence App” needed to be a useful tool for Kiva administrators and create an effective user experience for volunteers.
+    problem: Kiva came to us with the goal of building an app that would allow them to more quickly approve loans to entrepreneurs around the world. With the recent addition of Kiva Zip, a new Kiva product that allows non-traditional lending institutions (such as churches and schools), Kiva was receiving thousands of loan applications and needed a process by which to crowd-source application reading.
     features:
         - Gamification to help incentivize volunteers to continue working
         - Document viewer so that each loan application could be viewed as the review was being completed
@@ -35,7 +35,7 @@ project:
         - Node/Express (for web-app framework)
         - MongoDB (for database)
     technical_challenges:
-        -
+        - Beyond just reviewing loan applications, the “Crowd-based Due Diligence App” needed to be a useful tool for Kiva administrators and create an effective user experience for volunteers. We sat down with a few Kiva members who gave us a detailed spec of how to accomplish those two goals.
     impact:
 
 code:
