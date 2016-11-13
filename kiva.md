@@ -2,8 +2,8 @@
 layout: project
 
 summary:
-    name:
-    tagline:
+    name: Kiva “Crowd-based Due Diligence App”
+    tagline: Leverage volunteers to more quickly give loans to sustainable social organizations worldwide.
 
 team:
     - year:
