@@ -39,8 +39,7 @@ project:
     impact: At the end of the semester, we handed the project off to the engineering team of Kiva, who will integrate it with their systems and deploy it in the coming year. 
 
 code:
-    github_repo_name:
-    live_url:
+    github_repo_name: kiva
 
 keywords:
     social_impact_keywords:
