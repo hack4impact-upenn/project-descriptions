@@ -34,18 +34,27 @@ project:
             organization thus applied to Hack4Impact for help building a juvenile
             sentence cost calculator
     features:
-        -
+        - 
         -
         -
         -
         -
     technologies:
-        -
-        -
-        -
+        - jQuery (JavaScript libary for manipulating documents based on data)
+        - D3.js 
+        - Foundation (to make the web application
+            responsive so it can be used on smaller screens and mobile.)
     technical_challenges:
-        -
-    impact:
+        - The team spent most of the time in the first few weeks
+            determining the features and designing the product. A majority of
+            the planning process was spent discussing how to <b>best display
+            comparisons</b> and make the web application <b>extremely intuitive and
+            quick to use</b>. After a couple of design mockups the client selected
+            the one they liked best and with a couple of modifications the
+            coding started.
+    impact: Hopefully the product can make it easier for lawyers and advocates
+            to calculate sentence costs used in defending the rights of children
+            and improving the juvenile justice system.
 
 code:
     github_repo_name: lcag
@@ -63,15 +72,13 @@ keywords:
 
 media:
     screenshots:
-        - screenshot_caption:
-          screenshot_url:
-        - screenshot_caption:
-          screenshot_url:
-        - screenshot_caption:
-          screenshot_url:
+        - screenshot_caption: Initial sentence choice comparison
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/lcag/master/ss01.png
+        - screenshot_caption: Sentence choice calculation, with type and duration
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/lcag/master/ss02.png
+        - screenshot_caption: Sentence choice 1, 2, 3 calculation
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/lcag/master/ss03.png
     articles:
-        - article_name:
-          article_url:
-        - article_name:
-          article_url:
+        - article_name: Computer Science for a Cause
+          article_url: https://mandtforlife.com/2015/02/04/computer-science-for-a-cause/
 ---
