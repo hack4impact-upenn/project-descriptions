@@ -37,7 +37,8 @@ project:
         - D3 (for data visualization)
     technical_challenges:
         - Initially the exact scope of the project was unclear but after 2 weeks of talking with the clients and brainstorming features that would really add to an engaging donor dashboard a detailed specification was drawn up and mockups created. The entire team contributed to the brainstorming of features and provided feedback for the mockups before they were sent to the client to be approved.
-    impact: > 
+    impact:  >
+    Givology's dashboard now provides feedback to donors of their overall impact and actively encourages donors to return or give repeated donations.
 
 code:
     github_repo_name: givology
