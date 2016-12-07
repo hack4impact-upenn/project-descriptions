@@ -58,8 +58,8 @@ keywords:
 
 media:
     articles:
-        - article_name:
+        - article_name: Urban Affairs Coalition is Building Web App to Help Nonprofits Understand Overhead Costs
           article_url: http://www.generocity.org/urban-affairs-coalition-building-web-app-to-help-nonprofits-understand-overhead-costs/
-        - article_name:
-          article_url:
+        - article_name: UAC developing new web tool to analyze nonprofit overhead costs
+          article_url: http://commongood.unitedforimpact.org/node/411
 ---
