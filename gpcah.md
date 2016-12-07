@@ -45,7 +45,7 @@ project:
     technical_challenges:
         - Our client, the Philadelphia Food Policy Advisory Council (FPAC), tackled this problem by creating the Food Resources Toolkit, a comprehensive guide to food resources in Philadelphia. Our task was to adapt the Food Resources Toolkit for the web -- to develop a central web-based tool where individuals can find all food resources that are available within their zip code. Our client also emphasized the need for the website to be easily updatable with new or updated food resources and information.
     impact: >
-        We hope that Philly Food Finder will be a great asset to FPAC and the greater Philadelphia community
+        We hope that Philly Food Finder will be a great asset to FPAC and the greater Philadelphia community. PhillyFoodFinder was a "2016 Outstanding Nominee" for the "Mayor's Award for Distinguished Group Service Project" during the 4th Annual Mayor and County Recognition Day for National Service.
 
 code:
     github_repo_name: gpcah
