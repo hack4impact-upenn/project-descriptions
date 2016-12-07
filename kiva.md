@@ -40,6 +40,7 @@ project:
 
 code:
     github_repo_name: kiva
+    live_url: http://www.crowdvet.org/
 
 keywords:
     social_impact_keywords:
