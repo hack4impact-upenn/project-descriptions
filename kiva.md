@@ -36,7 +36,7 @@ project:
         - MongoDB (for database)
     technical_challenges:
         - Beyond just reviewing loan applications, the “Crowdsourced Due Diligence App” needed to be a useful tool for Kiva administrators and create an effective user experience for volunteers. We sat down with a few Kiva members who gave us a detailed spec of how to accomplish those two goals.
-    impact: At the end of the semester, we handed the project off to the engineering team of Kiva, who will integrate it with their systems and deploy it in the coming year. 
+    impact: At the end of the semester, we handed the project off to the engineering team of Kiva, who will integrate it with their systems and deploy it in the coming year. Kiva's https://github.com/kiva/crowdvet/ repository forked from Hack4Impact's repository.
 
 code:
     github_repo_name: kiva
