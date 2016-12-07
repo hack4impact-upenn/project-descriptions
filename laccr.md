@@ -34,41 +34,41 @@ project:
             organization thus applied to Hack4Impact for help building a juvenile
             sentence cost calculator
     features:
-        - 
-        -
-        -
-        -
-        -
+        - Choose sentence type
+        - Choose sentence duration in years, months, and days
+        - Calculate a single sentence in dollars
+        - Add different sentence choices
+        - Visualize comparative sentence costs on scale
+        - See dollar difference between sentence costs
     technologies:
-        - jQuery (JavaScript libary for manipulating documents based on data)
-        - D3.js 
-        - Foundation (to make the web application
-            responsive so it can be used on smaller screens and mobile.)
+        - jQuery (JavaScript library to simplify JavaScript programming) 
+        - D3.js (JavaScript library for manipulating documents based on data)
+        - Foundation (to make the web application mobile-responsive)
     technical_challenges:
         - The team spent most of the time in the first few weeks
             determining the features and designing the product. A majority of
-            the planning process was spent discussing how to <b>best display
-            comparisons</b> and make the web application <b>extremely intuitive and
-            quick to use</b>. After a couple of design mockups the client selected
+            the planning process was spent discussing how to best display
+            comparisons and make the web application extremely intuitive and
+            quick to use. After a couple of design mockups the client selected
             the one they liked best and with a couple of modifications the
             coding started.
-    impact: Hopefully the product can make it easier for lawyers and advocates
+    impact: >
+            Hopefully the product can make it easier for lawyers and advocates
             to calculate sentence costs used in defending the rights of children
             and improving the juvenile justice system.
 
 code:
     github_repo_name: lcag
-    live_url:
 
 keywords:
     social_impact_keywords:
-        -
-        -
-        -
+        - juvenile justice
+        - sentencing costs
+        - legal advocacy
     tech_keywords:
-        -
-        -
-        -
+        - data visualization
+        - mobile-responsive
+        - user interface
 
 media:
     screenshots:
