@@ -25,15 +25,16 @@ project:
     problem: >
         According to the latest longitudinal data on college completion, only 10% of entering 9th graders to the School District of Philadelphia in 1999-2000 had graduated from college by 2009. Despite increasing college access and completion rates for low-income students, college completion is still troublingly low. A lack of college degree severely limits individual employability, diminishes earning potentials, and stifles economic development in Philadelphia -- however, as education scholars have begun to discover, a key junction for intervention lies in the summer after high school graduation.
     features:
-        - 
-        -
-        -
-        -
-        -
+        - Landing page with Login, Student Signup, Mentor Signup
+        - Account page with Your Tasks, Your Mentor, Your Profile, and Your College 
+        - Your Tasks page with completed tasks and upcoming tasks
+        - Your Mentor page with contact information
+        - Your College page to find out more about your college, contac the admissions office, and more.
     technologies:
-        - Flask
-        - 
-        -
+        - Python
+        - Flask (for web application microframework)
+        - SQLAlchemy (for databases)
+        - Bootstrap (for responsive, mobile first framework for HTML, CSS, and JS)
     technical_challenges:
         - iCAN needed us to build an app to link mentors with high school students who had gotten into college, but the key part was making the UI and overall experience good enough to incentivize students to use it. We began by sitting down with members from the iCAN team to get a thorough understanding of the application they wanted us to build and over several hours we refined this down to a list of well-defined features. Over the course of the semester we met with the iCAN team every two weeks to determine which features were most important to work on, and at these meetings we refined the work we had previously completed.
     impact: >
@@ -50,17 +51,19 @@ keywords:
         - summer melt
     tech_keywords:
         - UI
-        - 
-        -
+        - Task management
+        - Gamification
 
 media:
     screenshots:
-        - screenshot_caption:
-          screenshot_url:
-        - screenshot_caption:
-          screenshot_url:
-        - screenshot_caption:
-          screenshot_url:
+        - screenshot_caption: iCAN Road to College: Login, Student Signup, Mentor Signup
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/ican/master/ss01.png
+        - screenshot_caption: Account page with Your Tasks, Your Mentor, Your Profile, and Your College
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/ican/master/ss03.png
+        - screenshot_caption: Your Tasks page with completed tasks and upcoming tasks
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/ican/master/ss04.png
+        - screenshot_caption: Your Mentor page with contact information
+          screenshot_url: https://github.com/hack4impact/ican/blob/master/ss05.png
     articles:
         - article_name: Student organization connects non-profits with app development
           article_url: http://www.thedp.com/article/2015/02/hack-for-impact
