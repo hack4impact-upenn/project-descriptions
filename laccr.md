@@ -2,37 +2,37 @@
 layout: project
 
 summary:
-    name:
-    tagline:
+    name: Juvenile Sentence Cost Calculator
+    tagline: Simply calculates and compares different expenditures for juvenile sentences to help attorneys and advocates
 
 team:
-    - year:
-      semester:
-      pm:
-      tl:
+    - year: 2014
+      semester: Fall
+      pm: Cathy Chen
       developers:
-          -
-          -
-          -
-    - year:
-      semester:
-      pm:
-      tl:
-      developers:
-          -
-          -
-          -
+          - Alt Altaf 
+          - Rachel Hong
+          - Ben Sandler
 
 client:
-    - name:
-      description:
-      website_url:
-    - name:
-      description:
-      website_url:
+    - name: Louisiana Center for Children’s Rights
+      description: >
+            The Louisiana Center for Children’s Rights is a non-profit that
+            defends the right of every Louisiana child to fairness, dignity, and
+            opportunity. It is the only specialized juvenile defense law office
+            in the country and houses the Louisiana Children’s Advocacy Group
+            that advocates for a more fair and compassionate juvenile justice
+            system.
+      website_url: http://www.laccr.org/
 
 project:
-    problem:
+    problem: >
+            The cost of a sentence has a huge impact on a judge's ruling and is often
+            used by the advocacy group to expose inefficiencies in the system. However
+            calculating and comparing different expenditures is a tedious and arduous
+            task that many attorneys and advocates simply do not have time for. The
+            organization thus applied to Hack4Impact for help building a juvenile
+            sentence cost calculator
     features:
         -
         -
@@ -48,7 +48,7 @@ project:
     impact:
 
 code:
-    github_repo_name:
+    github_repo_name: lcag
     live_url:
 
 keywords:
