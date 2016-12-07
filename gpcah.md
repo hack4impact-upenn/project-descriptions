@@ -2,8 +2,8 @@
 layout: project
 
 summary:
-    name:
-    tagline:
+    name: Philly Food Finder
+    tagline: Map-based web app to find local food resources
 
 team:
     - year: 2014
@@ -17,9 +17,11 @@ team:
 client:
     - name: Greater Philadelphia Coalition Against Hunger
       description: >
+        Founded in 1996, the Greater Philadelphia Coalition Against Hunger strives to build a community where all people have the food they need to lead healthy lives. The Coalition connects people with food assistance programs and nutrition education; provides resources to a network of food pantries; and educates the public and policymakers about responsible solutions that prevent people from going hungry. 
       website_url: http://hungercoalition.org
     - name: Philadelphia Food Policy Advisory Council 
       description: >
+        The Philadelphia Food Policy Advisory Council (FPAC) facilitates the development of responsible policies that improve access for Philadelphia residents to culturally appropriate, nutritionally sound, and affordable food that is grown locally through environmentally sustainable practices.
       website_url: http://phillyfpac.org
 
 project:
@@ -61,15 +63,17 @@ keywords:
 
 media:
     screenshots:
-        - screenshot_caption:
-          screenshot_url:
-        - screenshot_caption:
-          screenshot_url:
-        - screenshot_caption:
-          screenshot_url:
+        - screenshot_caption: Zip code search
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/gpcah/master/ss01.png
+        - screenshot_caption: Add new food resource
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/gpcah/master/ss02.png
+        - screenshot_caption: Approved Food Resources
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/gpcah/master/ss03.png
+        - screenshot_caption: Approved Farmers Markets list
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/gpcah/master/ss04.png
     articles:
-        - article_name:
-          article_url:
-        - article_name:
-          article_url:
+        - article_name: Philly Food Finder app makes finding affordable food easier
+          article_url: http://generocity.org/philly/2015/08/28/philly-food-finder-app-makes-finding-affordable-food-easier/
+        - article_name: Student organization connects non-profits with app development
+          article_url: http://www.thedp.com/article/2015/02/hack-for-impact
 ---
