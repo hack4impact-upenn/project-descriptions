@@ -44,10 +44,7 @@ project:
     technologies:
         - Python
         - Flask (for web application microframework)
-        - Flask-SQLAlchemy (for databases)
-        - Flask-WTF (for forms)
-        - Flask-Assets (for asset management and SCSS compilation)
-        - Flask-Mail (for sending emails)
+        - SQLAlchemy (for databases)
         - Bootstrap (for responsive, mobile first framework for HTML, CSS, and JS)
     technical_challenges:
         -
