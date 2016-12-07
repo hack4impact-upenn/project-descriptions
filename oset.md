@@ -55,11 +55,13 @@ keywords:
 media:
     screenshots:
         - screenshot_caption:
-          screenshot_url: http://a4.mzstatic.com/us/r30/Purple71/v4/22/6c/e7/226ce7c4-6b9b-5810-8bd0-e72727255ce5/screen696x696.jpeg
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/busy-booth/master/screen696x696.jpeg
         - screenshot_caption:
-          screenshot_url: http://a3.mzstatic.com/us/r30/Purple71/v4/00/0e/1b/000e1bf0-8c24-5ebc-dffd-3ab21d31134c/screen696x696.jpeg
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/busy-booth/master/screen696x696%20(1).jpeg
         - screenshot_caption:
-          screenshot_url: http://a2.mzstatic.com/us/r30/Purple71/v4/b8/22/5a/b8225a9e-c7c8-f258-ec89-984d3823f735/screen696x696.jpeg
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/busy-booth/master/screen696x696%20(2).jpeg
+        - screenshot_caption:
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/busy-booth/master/screen696x696%20(3).jpeg
     articles:
         - article_name: This UPenn app could be an Election Day game-changer
           article_url: http://www.metro.us/philadelphia/this-upenn-app-could-be-an-election-day-game-changer/zsJpjb---VtPLDYDwg787E/
