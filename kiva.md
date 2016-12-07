@@ -3,7 +3,7 @@ layout: project
 
 summary:
     name: Kiva Crowdsourced Due Diligence App
-    tagline: Leverage volunteers to more quickly give loans to sustainable social organizations worldwide.
+    tagline: Leverage volunteers to more quickly review loan applications from sustainable social organizations worldwide.
 
 team:
     - year: 2014
