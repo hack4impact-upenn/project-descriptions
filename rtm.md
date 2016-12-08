@@ -21,15 +21,14 @@ team:
       developers:
           - Krishna Bharathala
           - Cathy Chen
-          - Ayush Goyal
           - Hunter Lightman
           - Max McCarthy
           - Rodrigo Ornelas
-          - Ben Sandler
 
 client:
     - name: Reading Terminal Market
-      description:
+      description: >
+        The Reading Terminal Market, one of the nation’s largest and oldest public markets, is a 501(c)3 non-profit, with the following mission statement: To preserve the architectural and historical character, and function, of the Reading Terminal Market as an urban farmers' market; To provide a wide variety of produce, meat, fish, bakery and dairy products, and other raw and prepared food, brought to a public market in the center of the city by farmers, growers, producers and chefs; To maintain an environment that recognizes and celebrates the diversity of our citizens and fosters their interaction; To strengthen the historic link and mutual dependency of our rural and urban communities; and, To achieve this, while preserving the financial viability and achieving self-sufficiency for the Market.
       website_url: http://www.readingterminalmarket.org/
 
 project:
@@ -41,8 +40,8 @@ project:
         -
         -
     technologies:
-        -
-        -
+        - Flask
+        - SQL
         -
     technical_challenges:
         -
