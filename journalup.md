@@ -62,7 +62,7 @@ media:
           screenshot_url: https://raw.githubusercontent.com/hack4impact/journalup/master/ss02.png?token=AEDbmerGFg_Ljbwg3vRxNmwsdxN2VJLrks5YUbHtwA%3D%3D
         - screenshot_caption: Tutor - Review  - Grammar Tags
           screenshot_url: https://raw.githubusercontent.com/hack4impact/journalup/master/ss04.png?token=AEDbmUD6RXePd-LoOcK3FXrzDfyiIkGGks5YUbHvwA%3D%3D
-        - screenshot_caption: Student - Feedback - Reviewer Comments and Grammar Comments
+        - screenshot_caption: "Student - Feedback - Reviewer Comments and Grammar Comments"
           screenshot_url: https://raw.githubusercontent.com/hack4impact/journalup/master/ss06.png?token=AEDbmTp6em8EbaxoLgpoST4LhrzYyQcjks5YUbHwwA%3D%3D
           - screenshot_caption: Student - Points - Grammar, Content, Total
           screenshot_url: https://raw.githubusercontent.com/hack4impact/journalup/master/ss07.png?token=AEDbmfQI4ME_k7y_DEZsJjQyO3wO3K0Zks5YUbHxwA%3D%3D
