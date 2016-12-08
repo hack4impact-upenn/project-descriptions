@@ -6,30 +6,24 @@ summary:
     tagline: Generalized application for displaying location-based resources on a map
 
 team:
-    - year: 
-      semester:
-      pm:
-      tl:
+    - year: 2016
+      semester: Fall
+      pm: Rani Iyer
+      tl: Annie Meng
       developers:
-          -
-          -
-          -
-    - year:
-      semester:
-      pm:
-      tl:
+          - Brandon Obas
+          - Kyle Rosenbluth
+          - Ben Sandler
+          - Stephanie Shi
+          - Sanjay Subramanian
+    - year: 2015
+      semester: Spring
+      pm: Natasha Narang
+      tl: Arman Tokanov
       developers:
-          -
-          -
-          -
-
-client:
-    - name:
-      description:
-      website_url:
-    - name:
-      description:
-      website_url:
+          - Elizabeth Hamp
+          - Veronica Wharton
+          - Daniel Zhang
 
 project:
     problem:
@@ -40,16 +34,15 @@ project:
         -
         -
     technologies:
-        -
-        -
-        -
+        - Flask
+        - SQL
+        - Sematic-UI
     technical_challenges:
         -
     impact:
 
 code:
-    github_repo_name:
-    live_url:
+    github_repo_name: maps4all
 
 keywords:
     social_impact_keywords:
@@ -69,9 +62,4 @@ media:
           screenshot_url:
         - screenshot_caption:
           screenshot_url:
-    articles:
-        - article_name:
-          article_url:
-        - article_name:
-          article_url:
 ---
