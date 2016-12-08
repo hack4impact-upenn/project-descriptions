@@ -37,7 +37,7 @@ project:
         - Flask (for web appl framework)
         - Foundation (for front-end)
         - SQLAlchemy (for database)
-        -jQuery (for writing easier JavaScript)
+        - jQuery (for writing easier JavaScript)
         - gmaps.js (for map)
         - CKEditor.js (for web-based HTML text editor) 
         - Dropzone.js (for drag'n'drop file uploads)
