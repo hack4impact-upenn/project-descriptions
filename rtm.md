@@ -30,10 +30,7 @@ team:
 client:
     - name: Reading Terminal Market
       description:
-      website_url:
-    - name:
-      description:
-      website_url:
+      website_url: http://www.readingterminalmarket.org/
 
 project:
     problem:
