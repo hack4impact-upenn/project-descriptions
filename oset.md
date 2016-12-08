@@ -38,7 +38,7 @@ project:
         - Python
         - Shell
     technical_challenges:
-        - 
+        - The first challenge is accuracy.  How do we know that one political party or another, or some outside Super PAC, is not using BusyBooth to send a false signal that this polling place is jammed when it’s actually nearly empty, or the precinct is slow and someone is telling you it’s not. The honor system is great and all, but gaming in politics is always a temptation. BusyBooth handles this by using the existing voter database that jurisdictions have on hand. BusyBooth will ask the user a question or two that verifies that the user is in fact a registered voter, in that precinct, and presto, the user will be logged in to BusyBooth. Then, the voter can learn how long the lines are at his or her polling place, and upon arriving at the precinct, can enter how long it took to cast their ballot from the time they arrived to departure.
     impact: >
         The 1st successful outcome, well within 12 months of starting, would be the development, and preliminary usability testing for BusyBooth for an Election. A 2nd successful outcome would be the use of BusyBooth technology to support our collaboration with the Bipartisan Policy Center to improve their tools for studying long lines at polling places. A 3rd and important successful outcome over a 6-12 month timeframe after introduction of BusyBooth would be widespread adoption of the required API support of election jurisdictions to enable broader usage of the App, which would in turn, provide more data useful for elections officials seeking solutions to polling place operational efficiency issues.
 
