@@ -56,7 +56,7 @@ keywords:
 
 media:
     screenshots:
-        - screenshot_caption: iCAN Road to College: Login, Student Signup, Mentor Signup
+        - screenshot_caption: "iCAN Road to College: Login, Student Signup, Mentor Signup"
           screenshot_url: https://raw.githubusercontent.com/hack4impact/ican/master/ss01.png
         - screenshot_caption: Account page with Your Tasks, Your Mentor, Your Profile, and Your College
           screenshot_url: https://raw.githubusercontent.com/hack4impact/ican/master/ss03.png
