@@ -64,9 +64,9 @@ media:
           screenshot_url: https://raw.githubusercontent.com/hack4impact/journalup/master/ss04.png?token=AEDbmUD6RXePd-LoOcK3FXrzDfyiIkGGks5YUbHvwA%3D%3D
         - screenshot_caption: "Student - Feedback - Reviewer Comments and Grammar Comments"
           screenshot_url: https://raw.githubusercontent.com/hack4impact/journalup/master/ss06.png?token=AEDbmTp6em8EbaxoLgpoST4LhrzYyQcjks5YUbHwwA%3D%3D
-          - screenshot_caption: Student - Points - Grammar, Content, Total
+        - screenshot_caption: Student - Points - Grammar, Content, Total
           screenshot_url: https://raw.githubusercontent.com/hack4impact/journalup/master/ss07.png?token=AEDbmfQI4ME_k7y_DEZsJjQyO3wO3K0Zks5YUbHxwA%3D%3D
-          - screenshot_caption: Teacher - Students List
+        - screenshot_caption: Teacher - Students List
           screenshot_url: https://raw.githubusercontent.com/hack4impact/journalup/master/ss08.png?token=AEDbmTp6em8EbaxoLgpoST4LhrzYyQcjks5YUbHwwA%3D%3D
     articles:
         - article_name: Penn students, alum make finals of Milken-Penn GSE Business Plan Competition
