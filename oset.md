@@ -44,13 +44,13 @@ code:
 
 keywords:
     social_impact_keywords:
-        -
-        -
-        -
+        - polling place wait time
+        - elections
+        - civic engagement
     tech_keywords:
-        -
-        -
-        -
+        - crowdsourcing
+        - open-data
+        - real-time data
 
 media:
     screenshots:
