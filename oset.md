@@ -75,6 +75,6 @@ media:
           article_url: http://www.thedp.com/article/2016/09/hack4impact-strives-to-increase-voter-turnout
         - article_name: Siri, How Busy is my Polling Place?
           article_url: http://www.osetfoundation.org/blog/2014/9/3/siri-how-busy-is-my-polling-place
-        - article_name: BusyBooth: a Crowd-Sourced Polling Place Wait Time Monitor to Determine the Best Time to Cast Your Ballot.
+        - article_name: "BusyBooth: a Crowd-Sourced Polling Place Wait Time Monitor to Determine the Best Time to Cast Your Ballot."
           article_url: https://www.newschallenge.org/challenge/elections/entries/use-busybooth-a-crowd-sourced-polling-place-wait-time-monitor-to-determine-the-best-time-to-cast-your-ballot
 ---
