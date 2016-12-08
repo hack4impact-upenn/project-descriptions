@@ -38,7 +38,7 @@ project:
         - SQL
         - Semantic-UI
     technical_challenges:
-        -
+        - One technical challenge was displaying the number of resources for a region in the map. At different levels of zoon, the map had to show different numbers of resources for a specific region.
     impact: >
         "Women Veterans Rock has a 10 year commission, beginning in 2010. For the first 5 years, the focus has been on connecting veterans to jobs, resources, housing. Now they are halfway through, and the mindset is maturing into thinking about what happens after 2020 when the commission ends."
 
@@ -57,10 +57,10 @@ keywords:
 
 media:
     screenshots:
-        - screenshot_caption:
-          screenshot_url:
-        - screenshot_caption:
-          screenshot_url:
-        - screenshot_caption:
-          screenshot_url:
+        - screenshot_caption: Map
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/women-veterans-rock/master/ss4.jpg
+        - screenshot_caption: Dropdowns
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/women-veterans-rock/master/ss3.jpg
+        - screenshot_caption: Profile
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/women-veterans-rock/master/ss5.jpg
 ---
