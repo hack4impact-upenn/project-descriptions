@@ -2,11 +2,11 @@
 layout: project
 
 summary:
-    name:
-    tagline:
+    name: Maps4All
+    tagline: Generalized application for displaying location-based resources on a map
 
 team:
-    - year:
+    - year: 
       semester:
       pm:
       tl:
