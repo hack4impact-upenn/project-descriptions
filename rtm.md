@@ -36,14 +36,14 @@ project:
         Until now, all merchant-vendor interactions have taken place offline. Our goals are to: Introduce greater transparency into the merchant-vendor market by making all vendor listings and prices available to merchants; Allow smaller vendors to be easily discovered; Discourage artificially high prices; and Make merchant-vendor interactions more efficient. We can do this by: Making all vendor listings and prices available to merchants; Providing separate accounts for vendors, merchants, and administrators; and Providing flexibility to constantly update product listings, invoices, and addition of new merchants and vendors into the community.
 
     features:
-        -Vendors: Create their own business profiles with contact information, address, business description, payment preferences
-        -Vendors: Review Accept, Reject orders received from merchants. Email coming soon
-        -Vendors: Post listings to the site with: Description, Cost per Unit, Availability
-        - Merchants: Filter and Search Listings by price range\
-        - Merchants: Store Favorite Items
-        - Merchants: Add Listings to Shopping Cart
-        - Merchants: Checkout to receive e-mail consisting of invoices for each individual vendor in order to complete transactions offline 
-        - Merchants: View invoice history
+        - "Vendors: Create their own business profiles with contact information, address, business description, payment preferences"
+        - "Vendors: Review Accept, Reject orders received from merchants. Email coming soon"
+        - "Vendors: Post listings to the site with: Description, Cost per Unit, Availability"
+        - "Merchants: Filter and Search Listings by price range"
+        - "Merchants: Store Favorite Items"
+        - "Merchants: Add Listings to Shopping Cart"
+        - "Merchants: Checkout to receive e-mail consisting of invoices for each individual vendor in order to complete transactions offline"
+        - "Merchants: View invoice history"
     technologies:
         - Flask
         - SQL
