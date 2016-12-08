@@ -2,29 +2,33 @@
 layout: project
 
 summary:
-    name:
-    tagline:
+    name: Reading Terminal Market Purchasing Platform
+    tagline: Bringing the Popular Reading Terminal Market completely online 
 
 team:
-    - year:
-      semester:
-      pm:
-      tl:
+    - year: 2016
+      semester: Spring
+      pm: Alex Piatski
+      tl: Abhinav Suri
       developers:
-          -
-          -
-          -
-    - year:
-      semester:
-      pm:
-      tl:
+          - Maya Ebsworth
+          - Rani Iyer
+          - Annie Meng
+    - year: 2015
+      semester: Fall
+      pm: Natasha Narang
+      tl: Jonathan Dubin
       developers:
-          -
-          -
-          -
+          - Krishna Bharathala
+          - Cathy Chen
+          - Ayush Goyal
+          - Hunter Lightman
+          - Max McCarthy
+          - Rodrigo Ornelas
+          - Ben Sandler
 
 client:
-    - name:
+    - name: Reading Terminal Market
       description:
       website_url:
     - name:
@@ -48,8 +52,8 @@ project:
     impact:
 
 code:
-    github_repo_name:
-    live_url:
+    github_repo_name: reading-terminal-market
+    live_url: http://rtmprocurement.com
 
 keywords:
     social_impact_keywords:
