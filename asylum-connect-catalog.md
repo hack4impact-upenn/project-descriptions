@@ -46,6 +46,7 @@ project:
         - Flask (for web application microframework)
         - SQLAlchemy (for databases)
         - Bootstrap (for responsive, mobile first framework for HTML, CSS, and JS)
+        - JQuery
     technical_challenges:
         -
     impact: >
