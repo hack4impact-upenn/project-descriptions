@@ -11,6 +11,7 @@ team:
       pm: Cathy Chen
       developers:
           - Ali Altaf 
+          - Natalie Borowski
           - Rachel Hong
           - Thomas Lee
 
