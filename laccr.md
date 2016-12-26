@@ -10,9 +10,8 @@ team:
       semester: Fall
       pm: Cathy Chen
       developers:
-          - Alt Altaf 
+          - Ali Altaf 
           - Rachel Hong
-          - Ben Sandler
 
 client:
     - name: Louisiana Center for Children’s Rights
