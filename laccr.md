@@ -12,6 +12,7 @@ team:
       developers:
           - Ali Altaf 
           - Rachel Hong
+          - Thomas Lee
 
 client:
     - name: Louisiana Center for Children’s Rights
