@@ -24,6 +24,14 @@ team:
           - Elizabeth Hamp
           - Veronica Wharton
           - Daniel Zhang
+    - year: 2015
+      semester: Fall
+      pm: Veronica Wharton
+      developers:
+          - Jonathan Dubin
+          - Rachel Hong
+          - Sally Kong
+          - Thomas Lee
 
 project:
     problem:
