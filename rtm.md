@@ -76,7 +76,4 @@ media:
           screenshot_url: https://raw.githubusercontent.com/hack4impact/reading-terminal-market/master/ss2.jpg
         - screenshot_caption: Manage Orders
           screenshot_url: https://raw.githubusercontent.com/hack4impact/reading-terminal-market/master/ss3.jpg
-    articles:
-        - article_name: This app will help you avoid long lines at the voting booth on Election Day
-          article_url: http://www.thedp.com/article/2016/09/hack4impact-strives-to-increase-voter-turnout
 ---
