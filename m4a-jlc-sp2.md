@@ -2,7 +2,7 @@
 layout: project
 
 summary:
-    name: Youth Matters: Philly
+    name: "Youth Matters: Philly"
     tagline: Helping foster youth find resources in the local Philadelphia area
 
 team:
@@ -13,9 +13,9 @@ team:
       developers:
           - Ben Sandler
           - Brandon Obas
-	  - Kyle Rosenbluth
-      	  - Sanjay Subramanian
-	  - Stephanie Shi
+          - Kyle Rosenbluth
+          - Sanjay Subramanian
+          - Stephanie Shi
 
 project:
     problem: >
@@ -60,6 +60,6 @@ media:
           screenshot_url: https://raw.githubusercontent.com/hack4impact/maps4all-jlc-sp2/master/example/home.png
         - screenshot_caption: Select a resource
           screenshot_url: https://raw.githubusercontent.com/hack4impact/maps4all-jlc-sp2/master/example/one.png
-	- screenshot_caption: Resource detailed view
+        - screenshot_caption: Resource detailed view
           screenshot_url: https://raw.githubusercontent.com/hack4impact/maps4all-jlc-sp2/master/example/two.png
 ---
