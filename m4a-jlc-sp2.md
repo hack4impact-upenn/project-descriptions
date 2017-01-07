@@ -2,7 +2,7 @@
 layout: project
 
 summary:
-    name: Youth Matters: Philly
+    name: "Youth Matters: Philly"
     tagline: Helping foster youth find resources in the local Philadelphia area
 
 team:
