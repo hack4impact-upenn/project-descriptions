@@ -25,10 +25,10 @@ project:
     problem: >
         Givology's dashboard for donors was not serving its purpose. The dashboard provided little feedback to donors of their overall impact. Also, the dashboard did not actively encourage donors to return or give repeated donations.
     features:
-        - Impact wheel: donors are able to see all their donations visualized in one space
-        - Trending and recent donations - donors are encouraged to give further donations through suggestions on the dashboard
-        - Goal setting: donors can set personal donation goals or compare their activities against a Givology Challenge
-        - Impact ticker: a banner with pictures of all the organizations the donor has donated too
+        - "Impact wheel: donors are able to see all their donations visualized in one space"
+        - "Trending and recent donations - donors are encouraged to give further donations through suggestions on the dashboard"
+        - "Goal setting: donors can set personal donation goals or compare their activities against a Givology Challenge"
+        - "Impact ticker: a banner with pictures of all the organizations the donor has donated too"
         - Volunteer hours log
     technologies:
         - Django (for web application framework)
