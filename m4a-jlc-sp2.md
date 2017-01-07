@@ -13,9 +13,9 @@ team:
       developers:
           - Ben Sandler
           - Brandon Obas
-		  - Kyle Rosenbluth
-		  - Sanjay Subramanian
-		  - Stephanie Shi
+	  - Kyle Rosenbluth
+	  - Sanjay Subramanian
+	  - Stephanie Shi
 
 project:
     problem: >
@@ -34,10 +34,10 @@ project:
         - Flask (main Python web application framework)
         - Handlebars (create JS templates for displaying resources)
         - Google Maps API (mapping resources)
-		- Papaparse (parsing CSV files of resources)
+	- Papaparse (parsing CSV files of resources)
     technical_challenges:
         - Allowing for bulk uploading of resources through CSV: accommodating potentially large files and flexibility in being able to handle both reseting all data as well as updating
-		- Defining and then implementing ways for users to be able to do more detailed searches for resources by filtering
+	- Defining and then implementing ways for users to be able to do more detailed searches for resources by filtering
     impact: >
         The desired effect is to help increase the number of youth aging out of the child welfare system by using the app to locate necessary resources.
 
@@ -60,6 +60,6 @@ media:
           screenshot_url: https://raw.githubusercontent.com/hack4impact/maps4all-jlc-sp2/master/example/home.png
         - screenshot_caption: Select a resource
           screenshot_url: https://raw.githubusercontent.com/hack4impact/maps4all-jlc-sp2/master/example/one.png
-		- screenshot_caption: Resource detailed view
+	- screenshot_caption: Resource detailed view
           screenshot_url: https://raw.githubusercontent.com/hack4impact/maps4all-jlc-sp2/master/example/two.png
 ---
