@@ -12,7 +12,6 @@ team:
       developers:
           - Cathy Chen
           - Hunter Lightman
-          - Ben Sandler
           - Sanjay Subramanian
 
 client:
