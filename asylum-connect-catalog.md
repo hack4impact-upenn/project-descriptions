@@ -37,10 +37,10 @@ project:
         - Searching resources by location (e.g., Select a City - Philly / Seattle)
         - Basic data integrity & privacy (minimize collection of identifying user information)
         - Basic Google Analytics to track custom user actions
-        - (Nice to have) Better resource geospatial visualization - geolocation, directions, Google Street View
-        - (Nice to have) Ability to endorse features
-        - (Nice to have) When submitting a resource, check if resource already exists (de-duping)
-        - (Nice to have) Being able to sort resources by proximity
+        - (Looking ahead) Better resource geospatial visualization - geolocation, directions, Google Street View
+        - (Looking ahead) Ability to endorse features
+        - (Looking ahead) When submitting a resource, check if resource already exists (de-duping)
+        - (Looking ahead) Being able to sort resources by proximity
     technologies:
         - Python
         - Flask (for web application microframework)
@@ -57,7 +57,7 @@ project:
 
 code:
     github_repo_name: https://github.com/asylumconnect/asylum-connect-catalog
-    live_url:
+    live_url: http://asylumconnectcatalog.org/
 
 keywords:
     social_impact_keywords:
@@ -78,8 +78,6 @@ media:
         - screenshot_caption:
           screenshot_url:
     articles:
-        - article_name:
-          article_url:
-        - article_name:
-          article_url:
+        - article_name: AsylumConnect Scales Catalog v3.0 to Philadelphia, PA
+          article_url: http://www.asylumconnect.org/source-blog/2017/2/19/asylumconnect-scales-first-online-centralized-resource-database-for-lgbtq-asylum-seekers-to-philadelphia-pa
 ---
