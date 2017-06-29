@@ -64,13 +64,13 @@ keywords:
 media:
     screenshots:
         - screenshot_caption: Zip code search
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/gpcah/master/ss01.png
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/gpcah/ss01.png
         - screenshot_caption: Add new food resource
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/gpcah/master/ss02.png
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/gpcah/ss02.png
         - screenshot_caption: Approved Food Resources
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/gpcah/master/ss03.png
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/gpcah/ss03.png
         - screenshot_caption: Approved Farmers Markets list
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/gpcah/master/ss04.png
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/gpcah/ss04.png
     articles:
         - article_name: Philly Food Finder app makes finding affordable food easier
           article_url: http://generocity.org/philly/2015/08/28/philly-food-finder-app-makes-finding-affordable-food-easier/

@@ -74,11 +74,11 @@ keywords:
 media:
     screenshots:
         - screenshot_caption: Initial sentence choice comparison
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/lcag/master/ss01.png
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/lcag/ss01.png
         - screenshot_caption: Sentence choice calculation, with type and duration
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/lcag/master/ss02.png
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/lcag/ss02.png
         - screenshot_caption: Sentence choice 1, 2, 3 calculation
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/lcag/master/ss03.png
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/lcag/ss03.png
     articles:
         - article_name: Computer Science for a Cause
           article_url: https://mandtforlife.com/2015/02/04/computer-science-for-a-cause/

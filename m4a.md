@@ -66,9 +66,9 @@ keywords:
 media:
     screenshots:
         - screenshot_caption: Home page
-          screenshot_url: "https://raw.githubusercontent.com/hack4impact/maps4all/master/examples/homepage.png"
+          screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/m4a/ss01.png"
         - screenshot_caption: Select a resource
-          screenshot_url: "https://raw.githubusercontent.com/hack4impact/maps4all/master/examples/resource.png"
+          screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/m4a/ss02.png"
         - screenshot_caption: Resource detailed view
-          screenshot_url: "https://raw.githubusercontent.com/hack4impact/maps4all/master/examples/description.png"
+          screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/m4a/ss03.png"
 ---

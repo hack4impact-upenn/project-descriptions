@@ -59,15 +59,15 @@ keywords:
 media:
     screenshots:
         - screenshot_caption: Student - Today's Prompt and Your Response
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/journalup/master/ss02.png?token=AEDbmerGFg_Ljbwg3vRxNmwsdxN2VJLrks5YUbHtwA%3D%3D
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/journalup/ss01.png
         - screenshot_caption: Tutor - Review  - Grammar Tags
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/journalup/master/ss04.png?token=AEDbmUD6RXePd-LoOcK3FXrzDfyiIkGGks5YUbHvwA%3D%3D
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/journalup/ss02.png
         - screenshot_caption: "Student - Feedback - Reviewer Comments and Grammar Comments"
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/journalup/master/ss06.png?token=AEDbmTp6em8EbaxoLgpoST4LhrzYyQcjks5YUbHwwA%3D%3D
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/journalup/ss03.png
         - screenshot_caption: Student - Points - Grammar, Content, Total
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/journalup/master/ss07.png?token=AEDbmfQI4ME_k7y_DEZsJjQyO3wO3K0Zks5YUbHxwA%3D%3D
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/journalup/ss04.png
         - screenshot_caption: Teacher - Students List
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/journalup/master/ss08.png?token=AEDbmTp6em8EbaxoLgpoST4LhrzYyQcjks5YUbHwwA%3D%3D
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/journalup/ss05.png
     articles:
         - article_name: Penn students, alum make finals of Milken-Penn GSE Business Plan Competition
           article_url: http://www.upenn.edu/pennnews/current/2015-05-07/interviews/penn-students-make-finals-milken-penn-gse-business-plan-competition

@@ -56,7 +56,7 @@ keywords:
 media:
     screenshots:
         - screenshot_caption: Dashboard with impact wheel, trending/recent donations, and goal setting
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/Givology/master/ss01.png
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/givology/ss01.png
         - screenshot_caption: Dashboard with impact ticker and volunteer hours log
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/Givology/master/ss02.png
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/givology/ss02.png
 ---

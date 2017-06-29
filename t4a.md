@@ -51,7 +51,7 @@ keywords:
 media:
     screenshots:
         - screenshot_caption: Initial form
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/transcribe4all/master/examples/one.png
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/t4a/ss01.png
         - screenshot_caption: Task Started with audio url, email, and search words
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/transcribe4all/master/examples/two.png
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/t4a/ss02.png
 ---

@@ -58,9 +58,9 @@ keywords:
 media:
     screenshots:
         - screenshot_caption: Map
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/women-veterans-rock/master/ss4.jpg
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/wvr/ss04.jpg
         - screenshot_caption: Dropdowns
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/women-veterans-rock/master/ss3.jpg
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/wvr/ss03.jpg
         - screenshot_caption: Profile
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/women-veterans-rock/master/ss5.jpg
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/wvr/ss05.jpg
 ---
