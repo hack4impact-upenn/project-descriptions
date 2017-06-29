@@ -3,7 +3,7 @@ layout: project
 
 summary:
     name: Asylum Connect Catalog
-    tagline: dynamic, online, centralized database of service providers useful to LGBTQ asylum seekers in the U.S.
+    tagline: A dynamic, online, centralized database of service providers useful to LGBTQ asylum seekers in the U.S.
 
 team:
     - year: 2016
@@ -71,12 +71,20 @@ keywords:
 
 media:
     screenshots:
-        - screenshot_caption:
-          screenshot_url:
-        - screenshot_caption:
-          screenshot_url:
-        - screenshot_caption:
-          screenshot_url:
+        - screenshot_caption: Users can go to Seattle catalog
+          screenshot_url: https://github.com/hack4impact/asylum-connect-catalog/screenshots/ss1.png
+        - screenshot_caption: Users can go to Philadelphia catalog
+          screenshot_url: https://github.com/hack4impact/asylum-connect-catalog/screenshots/ss2.png
+        - screenshot_caption: Users can select categories, features, and requirements of resources
+          screenshot_url: https://github.com/hack4impact/asylum-connect-catalog/screenshots/ss3.png
+        - screenshot_caption: Users can expand a resource from the map and view as a list
+          screenshot_url: https://github.com/hack4impact/asylum-connect-catalog/screenshots/ss4.png
+        - screenshot_caption: Users can print resource list (part 1)
+          screenshot_url: https://github.com/hack4impact/asylum-connect-catalog/screenshots/ss55.pg
+        - screenshot_caption: Users can print resrouce list (part 2)
+          screenshot_url: https://github.com/hack4impact/asylum-connect-catalog/screenshots/ss6.png
+        - screenshot_caption: Users can suggest changes to resources, to be reviewed by admins
+          screenshot_url: https://github.com/hack4impact/asylum-connect-catalog/screenshots/ss7.png
     articles:
         - article_name: AsylumConnect Scales Catalog v3.0 to Philadelphia, PA
           article_url: http://www.asylumconnect.org/source-blog/2017/2/19/asylumconnect-scales-first-online-centralized-resource-database-for-lgbtq-asylum-seekers-to-philadelphia-pa
