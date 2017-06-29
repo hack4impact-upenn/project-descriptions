@@ -36,7 +36,7 @@ project:
         - Google Maps API (mapping resources)
         - Papaparse (parsing CSV files of resources)
     technical_challenges:
-        - Allowing for bulk uploading of resources through CSV: accommodating potentially large files and flexibility in being able to handle both reseting all data as well as updating
+        - Allowing for bulk uploading of resources through CSV and accommodating potentially large files and flexibility in being able to handle both reseting all data as well as updating
         - Defining and then implementing ways for users to be able to do more detailed searches for resources by filtering
     impact: >
         The desired effect is to help increase the number of youth aging out of the child welfare system by using the app to locate necessary resources.
