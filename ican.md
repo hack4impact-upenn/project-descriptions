@@ -57,13 +57,13 @@ keywords:
 media:
     screenshots:
         - screenshot_caption: "iCAN Road to College: Login, Student Signup, Mentor Signup"
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/ican/master/ss01.png
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/ican/ss01.png
         - screenshot_caption: Account page with Your Tasks, Your Mentor, Your Profile, and Your College
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/ican/master/ss03.png
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/ican/ss03.png
         - screenshot_caption: Your Tasks page with completed tasks and upcoming tasks
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/ican/master/ss04.png
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/ican/ss04.png
         - screenshot_caption: Your Mentor page with contact information
-          screenshot_url: https://github.com/hack4impact/ican/blob/master/ss05.png
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/ican/ss05.png
     articles:
         - article_name: Student organization connects non-profits with app development
           article_url: http://www.thedp.com/article/2015/02/hack-for-impact

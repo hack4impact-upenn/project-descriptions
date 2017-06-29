@@ -57,9 +57,5 @@ keywords:
 media:
     screenshots:
         - screenshot_caption: Home page
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/maps4all-jlc-sp2/master/example/home.png
-        - screenshot_caption: Select a resource
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/maps4all-jlc-sp2/master/example/one.png
-        - screenshot_caption: Resource detailed view
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/maps4all-jlc-sp2/master/example/two.png
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/m4a-jlc-sp2/ss01.png
 ---

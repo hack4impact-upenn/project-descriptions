@@ -71,9 +71,9 @@ keywords:
 media:
     screenshots:
         - screenshot_caption: Search Results
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/reading-terminal-market/master/ss1.jpg
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/rtm/ss01.jpg
         - screenshot_caption: Manage Carts
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/reading-terminal-market/master/ss2.jpg
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/rtm/ss02.jpg
         - screenshot_caption: Manage Orders
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/reading-terminal-market/master/ss3.jpg
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/rtm/ss03.jpg
 ---

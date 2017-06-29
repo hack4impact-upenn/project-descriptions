@@ -58,9 +58,9 @@ keywords:
 media:
     screenshots:
         - screenshot_caption: Dashboard for administrators to quickly see aggregated statistics per loan application 
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/Kiva/master/dashboard.png
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/kiva/ss01.png
         - screenshot_caption: Loan application review
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/Kiva/master/form.png
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/kiva/ss02.png
     articles:
         - article_name: Student organization connects non-profits with app development
           article_url: http://www.thedp.com/article/2015/02/hack-for-impact

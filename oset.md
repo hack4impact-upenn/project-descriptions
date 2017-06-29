@@ -58,13 +58,13 @@ keywords:
 media:
     screenshots:
         - screenshot_caption: Directions with time in minutes
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/busy-booth/master/screen696x696.jpeg
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/oset/ss04.jpeg
         - screenshot_caption: My Polling Place with address and buttons to View Wait Time and Get Driving Directions
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/busy-booth/master/screen696x696%20(1).jpeg
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/oset/ss01.jpeg
         - screenshot_caption: Past Poll Times, with the approximate wait time and past wait times every hour 
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/busy-booth/master/screen696x696%20(2).jpeg
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/oset/ss02.jpeg
         - screenshot_caption: Menu with My Polling Place, Directions, and Past Poll Times
-          screenshot_url: https://raw.githubusercontent.com/hack4impact/busy-booth/master/screen696x696%20(3).jpeg
+          screenshot_url: https://raw.githubusercontent.com/hack4impact/project-screenshots/master/oset/ss03.jpeg
     articles:
         - article_name: This UPenn app could be an Election Day game-changer
           article_url: http://www.metro.us/philadelphia/this-upenn-app-could-be-an-election-day-game-changer/zsJpjb---VtPLDYDwg787E/
