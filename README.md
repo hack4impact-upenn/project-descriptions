@@ -13,7 +13,7 @@ Copy the template below into a new file `project-name.md`. Each project
 description is a Markdown file with a YAML header marked by `---`. The header
 contains some metadata, and the document body should contain paragraphs about
 the project (described below). All header fields are **required** unless marked
-otherwise.
+otherwise. Do not include quotation marks or dashes in the description.
 
 ### Header fields
 
