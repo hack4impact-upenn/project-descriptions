@@ -26,29 +26,29 @@ client:
 
 project:
     problem: >
-    Idling happens when a vehicle’s engine is unnecessarily left running while it is stopped. In some cities (including Philadelphia), idling of large vehicles such as trucks and buses is illegal due to its economic, health, and climate costs. The purpose of IdleFreePhilly was to provide a web and SMS platform for reporting and visualizing illegal idling of large vehicles in Philadelphia. This helps Clean Air Council in identifying problematic city agencies and companies to help them self-correct and train their personnel.
-    features: >
-    - Public Map of All Reports of Illegal Idling Incidents (Mobile responsive)
-      - Time slider for filtering reports by date range
-      - Interactive markers for displaying details of the idling incidents
-      - Form for submitting reports
-    - Administrative Features for Clean Air Council Staff
-      - Dashboard for searching, filtering, and managing reports
-      - Ability to manage user and agency permissions and accounts
-      - Ability to bulk download reports as a CSV file
-    - SMS Reporting
+        Idling happens when a vehicle’s engine is unnecessarily left running while it is stopped. In some cities (including Philadelphia), idling of large vehicles such as trucks and buses is illegal due to its economic, health, and climate costs. The purpose of IdleFreePhilly was to provide a web and SMS platform for reporting and visualizing illegal idling of large vehicles in Philadelphia. This helps Clean Air Council in identifying problematic city agencies and companies to help them self-correct and train their personnel.
+    features:
+        - Public Map of All Reports of Illegal Idling Incidents (Mobile responsive)
+            - Time slider for filtering reports by date range
+            - Interactive markers for displaying details of the idling incidents
+            - Form for submitting reports
+        - Administrative Features for Clean Air Council Staff
+            - Dashboard for searching, filtering, and managing reports
+            - Ability to manage user and agency permissions and accounts
+            - Ability to bulk download reports as a CSV file
+        - SMS Reporting
     technologies:
-      - Flask
-      - SQL
-      - Google Maps API
-      - Twilio
-      - Imgur API
+        - Flask
+        - SQL
+        - Google Maps API
+        - Twilio
+        - Imgur API
     technical_challenges:
-      - Implementing various levels of permissions for viewing and editing reports. (ex. anonymizing license plates for the public but not for the Clean Air Council staff and agencies who own the vehicle with the license plate number)
-      - Generalizing report validation code to work with both our web and sms reports
+        - Implementing various levels of permissions for viewing and editing reports. (ex. anonymizing license plates for the public but not for the Clean Air Council staff and agencies who own the vehicle with the license plate number)
+        - Generalizing report validation code to work with both our web and sms reports
 
     impact: >
-    Clean Air Council said that through IdleFreePhilly, they were able to record more than a 1000 illegal idling incidents. This allowed Clean Air Council to target specific agencies which had high idling counts with concrete evidence and persuaded these agencies to retrain their employees to prevent future idling.
+        Clean Air Council said that through IdleFreePhilly, they were able to record more than a 1000 illegal idling incidents. This allowed Clean Air Council to target specific agencies which had high idling counts with concrete evidence and persuaded these agencies to retrain their employees to prevent future idling.
 
 
 code:
