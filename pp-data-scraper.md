@@ -18,7 +18,7 @@ team:
           - Alex Xu
 project:
     problem: >
-        "Doctor disciplinary data is siloed across states. When a doctor moves from one state to another, patients may not receive adequate information regarding their physician's prior disciplinary actions."
+        Doctor disciplinary data is siloed across states. When a doctor moves from one state to another, patients may not receive adequate information regarding their physician's prior disciplinary actions.
     features:
         - Ability to web scrape doctor disciplinary actions in a state
         - Ability to aggregate actions in one central database
@@ -53,5 +53,5 @@ keywords:
 media:
     screenshots:
         - screenshot_caption: Home page
-          screenshot_url: 
+          screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/m4a/ss01.png"
 ---
