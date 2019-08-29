@@ -8,7 +8,7 @@ summary:
 team:
     - year: 2018
       semester: Fall
-      pm: Kasra Kadem
+      pm: Kasra Khadem
       tl: Santiago Buenahora
       developers:
           - Charles Zhang
