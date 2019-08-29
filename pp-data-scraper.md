@@ -29,7 +29,7 @@ project:
         - Selenium (for web scraping)
         - EC2
         - S3
-	- SQLite
+        - SQLite
     technical_challenges:
         - Building scripts for states with very different days of recording and showing disciplinary actions
         - Removing duplicate data after the script is run each time
@@ -44,7 +44,7 @@ keywords:
         - doctor
         - healthcare
         - physician
-	- disciplinary
+        - disciplinary
     tech_keywords:
         - data
         - pipeline
