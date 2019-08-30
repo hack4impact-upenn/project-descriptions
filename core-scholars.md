@@ -17,7 +17,7 @@ team:
 client:
     - name: CORE Scholars
       description: >
-        College Opportunity Resources for Education (CORE) is dedicated to uniting communities around the goal of ensuring that postsecondary education is affordable and accessible for all.  CORE Scholars is the first scholarship of its kind to focus specifically on high school seniors –whether from the public, private, charter, or parochial systems living below the poverty line for an Individual Development Account (IDA) savings program. Over the past nine years, CORE has awarded over 25,669 Philadelphia students a total of more than 30 million dollars. 
+        College Opportunity Resources for Education (CORE) is dedicated to uniting communities around the goal of ensuring that postsecondary education is affordable and accessible for all.  CORE Scholars is the first scholarship of its kind to focus specifically on high school seniors whether from the public, private, charter, or parochial systems living below the poverty line for an Individual Development Account (IDA) savings program. Over the past nine years, CORE has awarded over 25,669 Philadelphia students a total of more than 30 million dollars. 
       website_url: https://corescholars.org
 
 project:
@@ -43,7 +43,7 @@ project:
         For CORE, this app would shift how students engage with our program and staff by giving the students the ability to set the pace of their progress and to share it with others. It allows students to keep up with program requirements efficiently and immediately by putting all of the information and tools they need in one place. Because we have a small staff, this app would have an incredible impact on how the staff is able to allot their time and energy and to tailor resources for each student. 
 
 code:
-    github_repo_name: CORE-scholars
+    github_repo_name: core-scholars
 
 keywords:
     social_impact_keywords:
