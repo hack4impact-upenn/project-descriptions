@@ -13,7 +13,7 @@ team:
       developers:
           - Sanjay Subramaniam
           - Nishita Jain
-          - Roberto Nin Feliz
+          - Roberta Nin Feliz
 
 client:
     - name: Madaktari Africa
