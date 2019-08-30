@@ -36,9 +36,9 @@ project:
         - Twilio (for SMS notifications)
         - Plaid (for bank account integration)
     technical_challenges:
-        - UI Design
-       	- Plaid Integration 
+        - Plaid Integration 
         - File Upload 
+        - UI Design
     impact: >
         For CORE, this app would shift how students engage with our program and staff by giving the students the ability to set the pace of their progress and to share it with others. It allows students to keep up with program requirements efficiently and immediately by putting all of the information and tools they need in one place. Because we have a small staff, this app would have an incredible impact on how the staff is able to allot their time and energy and to tailor resources for each student. 
 
