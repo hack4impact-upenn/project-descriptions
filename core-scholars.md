@@ -25,11 +25,11 @@ project:
         CORE understands the value of education in the lives of families living at the poverty level. We want to ensure every high school student in America has an opportunity to attend college—today and for years to come. Reaching Independence by Saving for Education (RISE) is part of a national effort to work with individuals to teach financial literacy in order to achieve personal goals. RISE is a need-based savings program, which offers students up to four thousand dollars in scholarship money after saving five hundred dollars of income. RISE participants also received invaluable financial literacy training throughout the duration of their six-month savings commitment. Hack4Impact created an application to help students manage the process of saving five hundred dollars and completing the necessary financial literacy modules.
 
     features:
-        - Profile - Student registers and fills out extensive profile that can be updated over time
-        - Savings - Student self-reports savings balance and application sends students SMS reminders with current savings balance and targets.
-        - Financial Literacy - Student self-reports progress  in Financial Literacy modules and application sends students SMS reminders to complete modules.
-        - Admin Capabilities - Admin can edit values for savings, financial literacy and indicate completion of requirements. 
-        - Executive Admin Capabilities - Executive admin can access private student information such as social security number for bank account creation and scholarship check approval. 
+        - Profile: Student registers and fills out extensive profile that can be updated over time
+        - Savings: Student self-reports savings balance and application sends students SMS reminders with current savings balance and targets.
+        - Financial Literacy: Student self-reports progress  in Financial Literacy modules and application sends students SMS reminders to complete modules.
+        - Admin Capabilities: Admin can edit values for savings, financial literacy and indicate completion of requirements. 
+        - Executive Admin Capabilities: Executive admin can access private student information such as social security number for bank account creation and scholarship check approval. 
     technologies:
         - Flask Boilerplate
         - Airtable (for easily editable forms)
