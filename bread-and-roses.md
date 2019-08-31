@@ -26,7 +26,7 @@ project:
     features:
         - A volunteer dashboard displaying important metrics (ex. total number of donations received, total amount raised by the cohort, etc.)
         - A drag and drop interface for keeping track of donor/donation progress (similar to Asana or Trello)
-        - A volunteer management and filtering tool (similar to excel but with built in filtering capabilities: ethnicity, gender, sexual orientation, cohort, etc.)
+        - A volunteer management and filtering tool (similar to excel but with built in filtering capabilities - ethnicity, gender, sexual orientation, cohort, etc.)
         - Ability to download volunteers into an external spreadsheet, the ability to view the demographic data of a cohort in graph form.
     technologies:
         - Flask
