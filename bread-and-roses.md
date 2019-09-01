@@ -17,7 +17,7 @@ team:
 client:
     - name: Bread and Roses Community Fund
       description: >
-         The Bread and Roses Community Fund of Philadelphia recruits a diverse cohort of volunteers every semester to raise money through the volunteers’ connections for their Giving Project. Using the collected funds, Bread and Roses sponsors socially impactful community events and initiatives.
+         The Bread and Roses Community Fund of Philadelphia recruits a diverse cohort of volunteers every semester to raise money through the volunteers' connections for their Giving Project. Using the collected funds, Bread and Roses sponsors socially impactful community events and initiatives.
       website_url: https://breadrosesfund.org/
 
 project:
