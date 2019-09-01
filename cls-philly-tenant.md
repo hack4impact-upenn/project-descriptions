@@ -7,7 +7,7 @@ summary:
 
 team:
     - year: 2018
-      semester: Spring
+      semester: Fall
       pm: Victor Chien
       developers:
           - Jediah Katz
@@ -60,13 +60,13 @@ keywords:
 media:
     screenshots:
         - screenshot_caption: CLS Philly Tenant 1
-          screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/cls-philly-tenant/ss01.png"
+          screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/cls-philly-tenant/ss01.gif"
         - screenshot_caption: CLS Philly Tenant 2
           screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/cls-philly-tenant/ss02.png"
         - screenshot_caption: CLS Philly Tenant 3
-          screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/cls-philly-tenant/ss03.png"
+          screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/cls-philly-tenant/ss03.gif"
         - screenshot_caption: CLS Philly Tenant 4
-          screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/cls-philly-tenant/ss04.png"
+          screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/cls-philly-tenant/ss04.gif"
         - screenshot_caption: CLS Philly Tenant 5
           screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/cls-philly-tenant/ss05.png"
 ---

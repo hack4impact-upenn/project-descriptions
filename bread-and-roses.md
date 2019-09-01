@@ -64,11 +64,11 @@ keywords:
 media:
     screenshots:
         - screenshot_caption: Bread and Roses 1
-          screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/bread-and-roses/ss01.png"
+          screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/bread-and-roses/ss01.gif"
         - screenshot_caption: Bread and Roses 2
-          screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/bread-and-roses/ss02.png"
+          screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/bread-and-roses/ss02.gif"
         - screenshot_caption: Bread and Roses 3
           screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/bread-and-roses/ss03.png"
         - screenshot_caption: Bread and Roses 4
-          screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/bread-and-roses/ss04.png"
+          screenshot_url: "https://raw.githubusercontent.com/hack4impact/project-screenshots/master/bread-and-roses/ss04.gif"
 ---
